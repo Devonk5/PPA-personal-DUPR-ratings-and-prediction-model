@@ -1944,7 +1944,6 @@ tournament,round,date,team1_player1,team1_player2,team2_player1,team2_player2,te
 2024 PPA Daytona Beach,Round 32,2024-12-21,Ge A.,Oncins E.,Grollman J.,Carvalho D.,2,0
 2024 PPA Daytona Beach,Round 32,2024-12-21,Wright M.,Koller A.,Parks Z.,Nunez J.,2,1
 2024 PPA Daytona Beach,Round 32,2024-12-21,French B.,Stone W.,Estareja R.,Palm D.,0,2
-2024 PPA Daytona Beach,Round 32,2024-12-21,Dow G.,Scarpa A.,Alvarez J.,Alhouni M.,2,2
 2024 PPA Daytona Beach,Round 32,2024-12-21,Hewett R.,Brown M.,Giannelli J.,Farias J.,2,0
 2024 PPA Daytona Beach,Round 32,2024-12-21,Freeman M.,Diamond C.,Truong J.,Black N.,1,2
 2024 PPA Daytona Beach,Round 32,2024-12-21,Smith S.,Alhouni M.,Wild M.,Andrews J.,2,0
@@ -1956,3 +1955,963 @@ tournament,round,date,team1_player1,team1_player2,team2_player1,team2_player2,te
 2024 PPA Daytona Beach,Round 32,2024-12-21,Fu R.,Teoni P.,Goldberg J.,Whittaker R.,2,0
 2024 PPA Daytona Beach,Round 32,2024-12-21,Blaszkewycz E.,Cincola J.,Delgado J.,Benitez J.,2,0
 2024 PPA Daytona Beach,Round 32,2024-12-21,Staksrud F.,Patriquin H.,Goldin G.,Madonia S.,2,0
+2025 PPA Tour Masters,Finals,2025-01-12,Johns C.,Johns B.,Staksrud F.,Patriquin H.,3,0
+2025 PPA Tour Masters,Bronze Medal Match,2025-01-12,Alshon C.,Daescu A.,Ge A.,Vich J.,2,1
+2025 PPA Tour Masters,Semi-Finals,2025-01-12,Staksrud F.,Patriquin H.,Ge A.,Vich J.,2,1
+2025 PPA Tour Masters,Semi-Finals,2025-01-12,Johns C.,Johns B.,Alshon C.,Daescu A.,2,1
+2025 PPA Tour Masters,Quarter Finals,2025-01-11,Khlif N.,Hewett R.,Alshon C.,Daescu A.,0,2
+2025 PPA Tour Masters,Quarter Finals,2025-01-11,Staksrud F.,Patriquin H.,Garnett C.,Loong T.,2,0
+2025 PPA Tour Masters,Quarter Finals,2025-01-11,Johnson H.,Arnold J.,Ge A.,Vich J.,0,2
+2025 PPA Tour Masters,Quarter Finals,2025-01-11,Johns C.,Johns B.,Wright M.,Duong Q.,2,0
+2025 PPA Tour Masters,Round 16,2025-01-10,Alshon C.,Daescu A.,Jakovljevic I.,Newman R.,2,0
+2025 PPA Tour Masters,Round 16,2025-01-10,Wright M.,Duong Q.,Klinger C.,Ignatowich J.,2,1
+2025 PPA Tour Masters,Round 16,2025-01-10,Staksrud F.,Patriquin H.,Koller A.,Hovenier B.,2,1
+2025 PPA Tour Masters,Round 16,2025-01-10,McGuffin T.,Bar D.,Garnett C.,Loong T.,0,2
+2025 PPA Tour Masters,Round 16,2025-01-09,Johns C.,Johns B.,Young D.,Rettenmaier T.,2,0
+2025 PPA Tour Masters,Round 16,2025-01-10,Ge A.,Vich J.,Devilliers J.,Smith P.,2,1
+2025 PPA Tour Masters,Round 16,2025-01-10,Frazier D.,Tellez P.,Johnson H.,Arnold J.,1,2
+2025 PPA Tour Masters,Round 16,2025-01-10,Johnson J.,Tardio G.,Khlif N.,Hewett R.,0,2
+2025 PPA Tour Masters,Round 32,2025-01-09,McGuffin T.,Bar D.,Boydston C.,Larson B.,2,0
+2025 PPA Tour Masters,Round 32,2025-01-09,Frazier D.,Tellez P.,Brown M.,Alhouni M.,2,0
+2025 PPA Tour Masters,Round 32,2025-01-09,Koller A.,Hovenier B.,De La Rosa D.,Emmrich M.,2,1
+2025 PPA Tour Masters,Round 32,2025-01-09,Khlif N.,Hewett R.,Litvinov D.,Chrysostom J.,2,0
+2025 PPA Tour Masters,Round 32,2025-01-09,Johnson H.,Arnold J.,Fu R.,Young D.,2,1
+2025 PPA Tour Masters,Round 32,2025-01-09,Garnett C.,Loong T.,French B.,Stone W.,2,0
+2025 PPA Tour Masters,Round 32,2025-01-08,Staksrud F.,Patriquin H.,Goldin G.,Madonia S.,2,0
+2025 PPA Tour Masters,Round 32,2025-01-08,Alshon C.,Daescu A.,Trinh T.,Ford Z.,2,0
+2025 PPA Tour Masters,Round 32,2025-01-09,Young D.,Rettenmaier T.,Shick C.,Sock J.,2,0
+2025 PPA Tour Masters,Round 32,2025-01-08,Johnson J.,Tardio G.,Green M.,Hilliard C.,2,0
+2025 PPA Tour Masters,Round 32,2025-01-09,Jakovljevic I.,Newman R.,Dawson C.,Tamaki K.,2,0
+2025 PPA Tour Masters,Round 32,2025-01-09,Wright M.,Duong Q.,Harvey A.,Lee S.,2,0
+2025 PPA Tour Masters,Round 32,2025-01-09,Devilliers J.,Smith P.,Taylor C.,Smith S.,2,0
+2025 PPA Tour Masters,Round 32,2025-01-09,Ge A.,Vich J.,Lohani A.,Campbell C.,2,0
+2025 PPA Tour Masters,Round 32,2025-01-09,Klinger C.,Ignatowich J.,Burl C.,Grollman J.,2,1
+2025 PPA Tour Masters,Round 32,2025-01-08,Johns C.,Johns B.,Black N.,Pailet E.,2,0
+2025 PPA Tour Masters,Round 64,2025-01-08,Lohani A.,Campbell C.,Truong J.,Newcombe R.,2,1
+2025 PPA Tour Masters,Round 64,2025-01-08,De La Rosa D.,Emmrich M.,Wan A.,Yee H.,2,0
+2025 PPA Tour Masters,Round 64,2025-01-08,Teoni P.,Johnson C.,Burl C.,Grollman J.,1,2
+2025 PPA Tour Masters,Round 64,2025-01-08,Shick C.,Sock J.,Shaffer W.,Morris J.,2,0
+2025 PPA Tour Masters,Round 64,2025-01-08,Deakin S.,Roddy E.,Harvey A.,Lee S.,0,2
+2025 PPA Tour Masters,Round 64,2025-01-08,Brown M.,Alhouni M.,Nemoff C.,Funemizu Y.,2,0
+2025 PPA Tour Masters,Round 64,2025-01-08,Taylor C.,Smith S.,Weinbach D.,Weinbach S.,2,1
+2025 PPA Tour Masters,Round 64,2025-01-08,Fu R.,Young D.,Ray P.,Garcia-Heredia O.,2,0
+2025 PPA Tour Masters,Round 64,2025-01-08,French B.,Stone W.,Amiri A.,Amiri F.,2,0
+2025 PPA Tour Masters,Round 64,2025-01-08,Burrows W.,Wasson L.,Goldin G.,Madonia S.,1,2
+2025 PPA Tour Masters,Round 64,2025-01-08,Dawson C.,Tamaki K.,Ayon E.,Poland J.,2,1
+2025 PPA Tour Masters,Round 64,2025-01-08,Sherry R.,Joseph G.,Trinh T.,Ford Z.,1,2
+2025 PPA Tour Masters,Round 64,2025-01-08,Loyd M.,Fought T.,Litvinov D.,Chrysostom J.,1,2
+2025 PPA Tour Masters,Round 64,2025-01-08,Johnson Y.,Bellamy R.,Green M.,Hilliard C.,0,2
+2025 PPA Tour Masters,Round 64,2025-01-08,Whittaker R.,Dayan K.,Black N.,Pailet E.,0,2
+2025 PPA Tucson Open,Finals,2025-02-09,Alshon C.,Daescu A.,Johnson J.,Tardio G.,3,0
+2025 PPA Tucson Open,Bronze Medal Match,2025-02-09,Johns B.,Patriquin H.,Khlif N.,Hewett R.,2,0
+2025 PPA Tucson Open,Semi-Finals,2025-02-09,Johnson J.,Tardio G.,Khlif N.,Hewett R.,2,0
+2025 PPA Tucson Open,Semi-Finals,2025-02-09,Johns B.,Patriquin H.,Alshon C.,Daescu A.,1,2
+2025 PPA Tucson Open,Quarter Finals,2025-02-08,Alshon C.,Daescu A.,Garnett C.,Loong T.,2,1
+2025 PPA Tucson Open,Quarter Finals,2025-02-08,Khlif N.,Hewett R.,Devilliers J.,Smith P.,2,0
+2025 PPA Tucson Open,Quarter Finals,2025-02-08,Johnson J.,Tardio G.,Bar D.,Navratil Z.,2,0
+2025 PPA Tucson Open,Quarter Finals,2025-02-08,Johns B.,Patriquin H.,Wright M.,Newman R.,2,0
+2025 PPA Tucson Open,Round 16,2025-02-08,Frazier D.,Tellez P.,Khlif N.,Hewett R.,0,2
+2025 PPA Tucson Open,Round 16,2025-02-08,Cincola J.,Trinh T.,Garnett C.,Loong T.,0,2
+2025 PPA Tucson Open,Round 16,2025-02-08,Wright M.,Newman R.,Johnson H.,Arnold J.,2,1
+2025 PPA Tucson Open,Round 16,2025-02-08,Johnson J.,Tardio G.,Fu R.,Young D.,2,0
+2025 PPA Tucson Open,Round 16,2025-02-08,Bar D.,Navratil Z.,Sock J.,Roddy E.,2,0
+2025 PPA Tucson Open,Round 16,2025-02-08,Ge A.,Vich J.,Devilliers J.,Smith P.,0,2
+2025 PPA Tucson Open,Round 16,2025-02-08,Alshon C.,Daescu A.,Young D.,Rettenmaier T.,2,1
+2025 PPA Tucson Open,Round 16,2025-02-08,Johns B.,Patriquin H.,Bellamy R.,Brown M.,2,0
+2025 PPA Tucson Open,Round 32,2025-02-08,Fu R.,Young D.,Oncins E.,Koller A.,2,1
+2025 PPA Tucson Open,Round 32,2025-02-08,Khlif N.,Hewett R.,Jakovljevic I.,Smith S.,2,0
+2025 PPA Tucson Open,Round 32,2025-02-08,Garnett C.,Loong T.,Hovenier B.,Deakin S.,2,0
+2025 PPA Tucson Open,Round 32,2025-02-08,Alshon C.,Daescu A.,Wasson L.,Ford Z.,2,1
+2025 PPA Tucson Open,Round 32,2025-02-08,Bar D.,Navratil Z.,Dow G.,Scarpa A.,2,0
+2025 PPA Tucson Open,Round 32,2025-02-08,Johns B.,Patriquin H.,Nemoff C.,Funemizu Y.,2,0
+2025 PPA Tucson Open,Round 32,2025-02-08,Ge A.,Vich J.,Evans T.,Jensen D.,2,0
+2025 PPA Tucson Open,Round 32,2025-02-08,Johnson J.,Tardio G.,Rucinski M.,Locklear P.,2,0
+2025 PPA Tucson Open,Round 32,2025-02-08,Devilliers J.,Smith P.,Loyd M.,Fought T.,2,1
+2025 PPA Tucson Open,Round 32,2025-02-08,Wright M.,Newman R.,Alhouni M.,Alhouni M.,2,0
+2025 PPA Tucson Open,Round 32,2025-02-08,Frazier D.,Tellez P.,Johnson Y.,Burrows W.,2,0
+2025 PPA Tucson Open,Round 32,2025-02-08,Ignatowich J.,Duong Q.,Sock J.,Roddy E.,0,2
+2025 PPA Tucson Open,Round 32,2025-02-08,Young D.,Rettenmaier T.,Taylor C.,De La Rosa D.,2,0
+2025 PPA Tucson Open,Round 32,2025-02-08,Johnson H.,Arnold J.,French B.,Stone W.,2,0
+2025 PPA Tucson Open,Round 32,2025-02-08,Teoni P.,Johnson C.,Bellamy R.,Brown M.,1,2
+2025 PPA Tucson Open,Round 64,2025-02-08,Alhouni M.,Alhouni M.,Prince J.,Morris J.,2,0
+2025 PPA Tucson Open,Round 64,2025-02-08,Cincola J.,Trinh T.,Wan A.,Yee H.,2,0
+2025 PPA Tucson Open,Round 64,2025-02-08,Evans T.,Jensen D.,Blair A.,Hilliard C.,2,0
+2025 PPA Tucson Open,Round 64,2025-02-08,Campbell C.,Duong B.,Rucinski M.,Locklear P.,0,2
+2025 PPA Tucson Open,Round 64,2025-02-08,Johnson Y.,Burrows W.,Ayotte J.,Shaffer W.,2,0
+2025 PPA Tucson Open,Round 64,2025-02-08,Dow G.,Scarpa A.,Yu T.,Inn R.,2,1
+2025 PPA Tucson Open,Round 64,2025-02-08,Wasson L.,Ford Z.,Herrera S.,Rahachou S.,2,0
+2025 PPA Tucson Open,Round 64,2025-02-08,Nemoff C.,Funemizu Y.,Angelo S.,Newcombe R.,2,1
+2025 PPA Mesa Cup,Finals,2025-02-23,Alshon C.,Daescu A.,Johns B.,Tardio G.,3,2
+2025 PPA Mesa Cup,Bronze Medal Match,2025-02-23,Staksrud F.,Patriquin H.,Frazier D.,Tellez P.,0,2
+2025 PPA Mesa Cup,Semi-Finals,2025-02-23,Staksrud F.,Patriquin H.,Alshon C.,Daescu A.,1,2
+2025 PPA Mesa Cup,Semi-Finals,2025-02-23,Johns B.,Tardio G.,Frazier D.,Tellez P.,2,0
+2025 PPA Mesa Cup,Quarter Finals,2025-02-22,Staksrud F.,Patriquin H.,Johnson J.,Khlif N.,2,1
+2025 PPA Mesa Cup,Quarter Finals,2025-02-22,Alshon C.,Daescu A.,Klinger C.,Duong Q.,2,0
+2025 PPA Mesa Cup,Quarter Finals,2025-02-22,Johns B.,Tardio G.,Garnett C.,Loong T.,2,1
+2025 PPA Mesa Cup,Quarter Finals,2025-02-22,Frazier D.,Tellez P.,Newman R.,Ignatowich J.,2,0
+2025 PPA Mesa Cup,Round 16,2025-02-21,Newman R.,Ignatowich J.,Ge A.,Vich J.,2,1
+2025 PPA Mesa Cup,Round 16,2025-02-21,Johns B.,Tardio G.,Teoni P.,Johnson C.,2,0
+2025 PPA Mesa Cup,Round 16,2025-02-21,Angelo S.,Newcombe R.,Garnett C.,Loong T.,0,2
+2025 PPA Mesa Cup,Round 16,2025-02-20,Johns C.,Koller A.,Klinger C.,Duong Q.,0,2
+2025 PPA Mesa Cup,Round 16,2025-02-21,Alshon C.,Daescu A.,Johnson H.,Navratil Z.,2,0
+2025 PPA Mesa Cup,Round 16,2025-02-21,Johnson J.,Khlif N.,Oncins E.,Wright M.,2,1
+2025 PPA Mesa Cup,Round 16,2025-02-21,Frazier D.,Tellez P.,Devilliers J.,Smith P.,2,1
+2025 PPA Mesa Cup,Round 16,2025-02-21,Staksrud F.,Patriquin H.,French B.,Stone W.,2,1
+2025 PPA Mesa Cup,Round 32,2025-02-19,Staksrud F.,Patriquin H.,Madonia S.,Funemizu Y.,2,0
+2025 PPA Mesa Cup,Round 32,2025-02-20,Johnson H.,Navratil Z.,Loyd M.,Fought T.,2,0
+2025 PPA Mesa Cup,Round 32,2025-02-20,Devilliers J.,Smith P.,Young D.,Rettenmaier T.,2,0
+2025 PPA Mesa Cup,Round 32,2025-02-20,Johns C.,Koller A.,Ford Z.,Joseph G.,2,1
+2025 PPA Mesa Cup,Round 32,2025-02-20,Johnson J.,Khlif N.,Cincola J.,Wasson L.,2,0
+2025 PPA Mesa Cup,Round 32,2025-02-20,Alshon C.,Daescu A.,Black N.,Pailet E.,2,0
+2025 PPA Mesa Cup,Round 32,2025-02-20,Klinger C.,Duong Q.,Sock J.,Roddy E.,2,0
+2025 PPA Mesa Cup,Round 32,2025-02-19,Oncins E.,Wright M.,Jakovljevic I.,Scarpa A.,2,0
+2025 PPA Mesa Cup,Round 32,2025-02-20,Newman R.,Ignatowich J.,Shekar K.,Nemoff C.,2,0
+2025 PPA Mesa Cup,Round 32,2025-02-19,Ge A.,Vich J.,De La Rosa D.,Emmrich M.,2,0
+2025 PPA Mesa Cup,Round 32,2025-02-20,Frazier D.,Tellez P.,Taylor C.,Johnson Y.,2,0
+2025 PPA Mesa Cup,Round 32,2025-02-20,Garnett C.,Loong T.,Fu R.,Young D.,2,0
+2025 PPA Mesa Cup,Round 32,2025-02-19,Bonilla B.,Radermacher M.,Angelo S.,Newcombe R.,0,2
+2025 PPA Mesa Cup,Round 32,2025-02-20,Hewett R.,Smith S.,Teoni P.,Johnson C.,1,2
+2025 PPA Mesa Cup,Round 32,2025-02-19,Johns B.,Tardio G.,Campbell C.,Dow G.,2,1
+2025 PPA Mesa Cup,Round 64,2025-02-18,De La Rosa D.,Emmrich M.,Shaffer W.,Morris J.,2,0
+2025 PPA Mesa Cup,Round 64,2025-02-19,Alhouni M.,Alhouni M.,Angelo S.,Newcombe R.,1,2
+2025 PPA Mesa Cup,Round 64,2025-02-18,Jakovljevic I.,Scarpa A.,Koszuta K.,Chrysostom J.,2,0
+2025 PPA Mesa Cup,Round 64,2025-02-19,Teoni P.,Johnson C.,Howard J.,Mercado A.,2,0
+2025 PPA Mesa Cup,Round 64,2025-02-19,Querrey S.,Burrows W.,Shekar K.,Nemoff C.,1,2
+2025 PPA Mesa Cup,Round 64,2025-02-18,Young D.,Rettenmaier T.,Protzek T.,Cawston B.,2,0
+2025 PPA Mesa Cup,Round 64,2025-02-19,Taylor C.,Johnson Y.,Laura C.,Delgado J.,2,1
+2025 PPA Mesa Cup,Round 64,2025-02-19,Fu R.,Young D.,Rahachou S.,Parrish T.,2,0
+2025 PPA Mesa Cup,Round 64,2025-02-19,Campbell C.,Dow G.,Evans T.,Jensen D.,2,0
+2025 PPA Mesa Cup,Round 64,2025-02-18,Sock J.,Roddy E.,Blair A.,Hilliard C.,2,0
+2025 PPA Mesa Cup,Round 64,2025-02-19,French B.,Stone W.,MacKinnon W.,Rodrigo V.,2,0
+2025 PPA Mesa Cup,Round 64,2025-02-19,Hovenier B.,Trinh T.,Madonia S.,Funemizu Y.,0,2
+2025 PPA Mesa Cup,Round 64,2025-02-19,Cincola J.,Wasson L.,Harvey A.,Venkatesan M.,2,1
+2025 PPA Mesa Cup,Round 64,2025-02-19,Ford Z.,Joseph G.,Cassidy R.,Weinbach D.,2,1
+2025 PPA Mesa Cup,Round 64,2025-02-19,Loyd M.,Fought T.,Yu T.,Yang L.,2,1
+2025 PPA Mesa Cup,Round 64,2025-02-19,Brown M.,Deakin S.,Black N.,Pailet E.,0,2
+2025 PPA Veolia Cape Coral Open,Finals,2025-03-09,Johns B.,Daescu A.,Alshon C.,Staksrud F.,3,0
+2025 PPA Veolia Cape Coral Open,Bronze Medal Match,2025-03-09,Klinger C.,Johnson J.,McGuffin T.,Bar D.,2,0
+2025 PPA Veolia Cape Coral Open,Semi-Finals,2025-03-08,Johns B.,Daescu A.,Klinger C.,Johnson J.,2,1
+2025 PPA Veolia Cape Coral Open,Semi-Finals,2025-03-09,Alshon C.,Staksrud F.,McGuffin T.,Bar D.,2,0
+2025 PPA Veolia Cape Coral Open,Quarter Finals,2025-03-08,Alshon C.,Staksrud F.,Ge A.,Vich J.,2,0
+2025 PPA Veolia Cape Coral Open,Quarter Finals,2025-03-08,Johns B.,Daescu A.,Newman R.,Frazier D.,2,0
+2025 PPA Veolia Cape Coral Open,Quarter Finals,2025-03-08,McGuffin T.,Bar D.,De La Rosa D.,Emmrich M.,2,0
+2025 PPA Veolia Cape Coral Open,Quarter Finals,2025-03-08,Patriquin H.,Tardio G.,Klinger C.,Johnson J.,1,2
+2025 PPA Veolia Cape Coral Open,Round 16,2025-03-08,Alshon C.,Staksrud F.,French B.,Stone W.,2,0
+2025 PPA Veolia Cape Coral Open,Round 16,2025-03-08,Ford Z.,Delgado J.,Ge A.,Vich J.,0,2
+2025 PPA Veolia Cape Coral Open,Round 16,2025-03-08,Johns B.,Daescu A.,Loyd M.,Fought T.,2,0
+2025 PPA Veolia Cape Coral Open,Round 16,2025-03-08,Johns C.,Khlif N.,De La Rosa D.,Emmrich M.,0,2
+2025 PPA Veolia Cape Coral Open,Round 16,2025-03-08,McGuffin T.,Bar D.,Hewett R.,Oncins E.,2,1
+2025 PPA Veolia Cape Coral Open,Round 16,2025-03-08,Klinger C.,Johnson J.,Johnson H.,Arnold J.,2,0
+2025 PPA Veolia Cape Coral Open,Round 16,2025-03-08,Patriquin H.,Tardio G.,Hovenier B.,Rettenmaier T.,2,0
+2025 PPA Veolia Cape Coral Open,Round 16,2025-03-08,Newman R.,Frazier D.,Wright M.,Navratil Z.,2,0
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,Duong Q.,Tellez P.,Ford Z.,Delgado J.,1,2
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,Ge A.,Vich J.,Sock J.,Roddy E.,2,0
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,Newman R.,Frazier D.,Wasson L.,Campbell C.,2,0
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,Johns B.,Daescu A.,Livornese R.,Tomassi T.,2,0
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,French B.,Stone W.,Teoni P.,Johnson C.,2,0
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,Johns C.,Khlif N.,Madonia S.,Funemizu Y.,2,0
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,Hewett R.,Oncins E.,Fu R.,Young D.,2,0
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,McGuffin T.,Bar D.,Siljestrom A.,Afanasenka S.,2,1
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,Alshon C.,Staksrud F.,Rucinski M.,Locklear P.,2,0
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,Johnson H.,Arnold J.,Brown M.,Deakin S.,2,0
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,Klinger C.,Johnson J.,Mogle C.,Romano N.,2,0
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,Hovenier B.,Rettenmaier T.,Jakovljevic I.,Smith S.,2,1
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,Patriquin H.,Tardio G.,Marceau Z.,LaMacchio A.,2,0
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,Devilliers J.,Smith P.,Loyd M.,Fought T.,1,2
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,Garnett C.,Ignatowich J.,De La Rosa D.,Emmrich M.,0,2
+2025 PPA Veolia Cape Coral Open,Round 32,2025-03-08,Wright M.,Navratil Z.,Johnson Y.,Bellamy R.,2,0
+2025 PPA Veolia Cape Coral Open,Round 64,2025-03-08,Madonia S.,Funemizu Y.,Blanco R.,saez j.,2,0
+2025 PPA Veolia Cape Coral Open,Round 64,2025-03-08,Taylor C.,Benitez J.,Siljestrom A.,Afanasenka S.,0,2
+2025 PPA Veolia Cape Coral Open,Round 64,2025-03-08,Livornese R.,Tomassi T.,Truong J.,Camron R.,2,0
+2025 PPA Veolia Cape Coral Open,Round 64,2025-03-08,Ford Z.,Delgado J.,Leonard M.,Cangelosi J.,2,0
+2025 PPA Veolia Cape Coral Open,Round 64,2025-03-08,Rucinski M.,Locklear P.,Mediratta N.,Wazir A.,2,1
+2025 PPA Veolia Cape Coral Open,Round 64,2025-03-08,Freeman M.,Duong B.,Mogle C.,Romano N.,0,2
+2025 PPA Veolia Cape Coral Open,Round 64,2025-03-08,Laura C.,Cincola J.,Marceau Z.,LaMacchio A.,0,2
+2025 PPA Veolia Cape Coral Open,Round 64,2025-03-08,Wasson L.,Campbell C.,Aninon R.,Moreno T.,2,0
+2025 PPA Texas Open CIBC,Finals,2025-03-16,Alshon C.,Staksrud F.,Johns B.,Tardio G.,2,3
+2025 PPA Texas Open CIBC,Bronze Medal Match,2025-03-16,Patriquin H.,Tellez P.,Frazier D.,Daescu A.,2,1
+2025 PPA Texas Open CIBC,Semi-Finals,2025-03-15,Alshon C.,Staksrud F.,Patriquin H.,Tellez P.,2,1
+2025 PPA Texas Open CIBC,Semi-Finals,2025-03-16,Johns B.,Tardio G.,Frazier D.,Daescu A.,2,1
+2025 PPA Texas Open CIBC,Quarter Finals,2025-03-15,Alshon C.,Staksrud F.,Klinger C.,Johnson J.,2,0
+2025 PPA Texas Open CIBC,Quarter Finals,2025-03-15,Johns B.,Tardio G.,McGuffin T.,Duong Q.,2,1
+2025 PPA Texas Open CIBC,Quarter Finals,2025-03-15,Frazier D.,Daescu A.,Ge A.,Vich J.,2,0
+2025 PPA Texas Open CIBC,Quarter Finals,2025-03-15,Patriquin H.,Tellez P.,Wright M.,Bar D.,2,0
+2025 PPA Texas Open CIBC,Round 16,2025-03-15,Patriquin H.,Tellez P.,Devilliers J.,Khlif N.,2,1
+2025 PPA Texas Open CIBC,Round 16,2025-03-15,Klinger C.,Johnson J.,Newman R.,Freeman M.,2,0
+2025 PPA Texas Open CIBC,Round 16,2025-03-15,Wright M.,Bar D.,Garnett C.,Loong T.,2,1
+2025 PPA Texas Open CIBC,Round 16,2025-03-15,Ignatowich J.,Johns C.,Ge A.,Vich J.,0,2
+2025 PPA Texas Open CIBC,Round 16,2025-03-15,Johns B.,Tardio G.,Fu R.,Navratil Z.,2,1
+2025 PPA Texas Open CIBC,Round 16,2025-03-15,Alshon C.,Staksrud F.,Loyd M.,Fought T.,2,0
+2025 PPA Texas Open CIBC,Round 16,2025-03-15,Frazier D.,Daescu A.,Hewett R.,Oncins E.,2,1
+2025 PPA Texas Open CIBC,Round 16,2025-03-15,McGuffin T.,Duong Q.,Johnson H.,Arnold J.,2,1
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,Ge A.,Vich J.,Bellamy R.,Young D.,2,0
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,Klinger C.,Johnson J.,Merchant A.,Deakin S.,2,0
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,Wright M.,Bar D.,Lohani A.,Campbell C.,2,0
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,Johns B.,Tardio G.,Dow G.,Scarpa A.,2,0
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,Devilliers J.,Khlif N.,Koller A.,Hovenier B.,2,0
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,Fu R.,Navratil Z.,Finnerty M.,Berryman B.,2,0
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,Alshon C.,Staksrud F.,Smith S.,Alhouni M.,2,0
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,Garnett C.,Loong T.,Sock J.,Roddy E.,2,1
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,Ignatowich J.,Johns C.,Delgado J.,Wasson L.,2,1
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,Hewett R.,Oncins E.,Herminas E.,Morgan A.,2,0
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,Frazier D.,Daescu A.,Jakovljevic I.,Ford Z.,2,1
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,Johnson H.,Arnold J.,De La Rosa D.,Emmrich M.,2,0
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,McGuffin T.,Duong Q.,Tomassi T.,Blaszkewycz E.,2,0
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,Patriquin H.,Tellez P.,Taylor C.,Alhouni M.,2,0
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,Newman R.,Freeman M.,Lee S.,Yu T.,2,1
+2025 PPA Texas Open CIBC,Round 32,2025-03-15,Young D.,Rettenmaier T.,Loyd M.,Fought T.,0,2
+2025 PPA Texas Open CIBC,Round 64,2025-03-15,Delgado J.,Wasson L.,Rucinski M.,Locklear P.,2,1
+2025 PPA Texas Open CIBC,Round 64,2025-03-15,Dow G.,Scarpa A.,Madonia S.,Benitez J.,2,0
+2025 PPA Texas Open CIBC,Round 64,2025-03-15,Taylor C.,Alhouni M.,Querrey S.,Sherry R.,2,0
+2025 PPA Texas Open CIBC,Round 64,2025-03-15,Duong B.,Brown M.,Tomassi T.,Blaszkewycz E.,0,2
+2025 PPA Texas Open CIBC,Round 64,2025-03-15,Jakovljevic I.,Ford Z.,Perez E.,Harvey A.,2,0
+2025 PPA Texas Open CIBC,Round 64,2025-03-15,Bellamy R.,Young D.,Braham A.,Seagraves J.,2,0
+2025 PPA Texas Open CIBC,Round 64,2025-03-15,Sock J.,Roddy E.,Frank O.,Steiner E.,2,1
+2025 PPA Texas Open CIBC,Round 64,2025-03-15,Koller A.,Hovenier B.,Gonnering Z.,Herrera S.,2,0
+2025 PPA Texas Open CIBC,Round 64,2025-03-15,Merchant A.,Deakin S.,Ayon E.,Poland J.,2,1
+2025 PPA Texas Open CIBC,Round 64,2025-03-15,Loyd M.,Fought T.,Mancini G.,Usai P.,2,0
+2025 PPA Texas Open CIBC,Round 64,2025-03-15,Smith S.,Alhouni M.,Trinh T.,Funemizu Y.,2,0
+2025 PPA Texas Open CIBC,Round 64,2025-03-15,Lohani A.,Campbell C.,Traxler D.,McCartney C.,2,0
+2025 PPA Texas Open CIBC,Round 64,2025-03-15,De La Rosa D.,Emmrich M.,Nguyen H.,Bricker A.,2,0
+2025 PPA Red Rock Open,Finals,2025-03-30,Staksrud F.,Patriquin H.,Alshon C.,Daescu A.,1,3
+2025 PPA Red Rock Open,Bronze Medal Match,2025-03-30,Klinger C.,Johnson J.,Bar D.,Frazier D.,2,1
+2025 PPA Red Rock Open,Semi-Finals,2025-03-30,Alshon C.,Daescu A.,Bar D.,Frazier D.,2,0
+2025 PPA Red Rock Open,Semi-Finals,2025-03-29,Staksrud F.,Patriquin H.,Klinger C.,Johnson J.,2,0
+2025 PPA Red Rock Open,Quarter Finals,2025-03-28,Alshon C.,Daescu A.,Johnson H.,Duong Q.,2,0
+2025 PPA Red Rock Open,Quarter Finals,2025-03-28,Klinger C.,Johnson J.,Newman R.,Ge A.,2,0
+2025 PPA Red Rock Open,Quarter Finals,2025-03-28,Bar D.,Frazier D.,Devilliers J.,Tellez P.,2,0
+2025 PPA Red Rock Open,Quarter Finals,2025-03-28,Staksrud F.,Patriquin H.,Vich J.,Wright M.,2,0
+2025 PPA Red Rock Open,Round 16,2025-03-28,Staksrud F.,Patriquin H.,Koller A.,Smith S.,2,0
+2025 PPA Red Rock Open,Round 16,2025-03-28,Newman R.,Ge A.,Ignatowich J.,Freeman M.,2,0
+2025 PPA Red Rock Open,Round 16,2025-03-28,Alshon C.,Daescu A.,Teoni P.,Johnson C.,2,0
+2025 PPA Red Rock Open,Round 16,2025-03-28,Klinger C.,Johnson J.,Smith P.,Hovenier B.,2,0
+2025 PPA Red Rock Open,Round 16,2025-03-28,Vich J.,Wright M.,Fu R.,Garnett C.,2,0
+2025 PPA Red Rock Open,Round 16,2025-03-28,Bar D.,Frazier D.,French B.,Stone W.,2,0
+2025 PPA Red Rock Open,Round 16,2025-03-28,Johnson H.,Duong Q.,Loong T.,Khlif N.,2,0
+2025 PPA Red Rock Open,Round 16,2025-03-28,Devilliers J.,Tellez P.,Arnold J.,Hewett R.,2,0
+2025 PPA Red Rock Open,Round 32,2025-03-28,French B.,Stone W.,Jakovljevic I.,Sock J.,2,0
+2025 PPA Red Rock Open,Round 32,2025-03-28,Devilliers J.,Tellez P.,Campbell C.,Harvey A.,2,0
+2025 PPA Red Rock Open,Round 32,2025-03-28,Teoni P.,Johnson C.,Dow G.,Scarpa A.,2,0
+2025 PPA Red Rock Open,Round 32,2025-03-28,Arnold J.,Hewett R.,Cheney A.,Cassidy R.,2,0
+2025 PPA Red Rock Open,Round 32,2025-03-28,Staksrud F.,Patriquin H.,Ness L.,Mercado A.,2,0
+2025 PPA Red Rock Open,Round 32,2025-03-28,Koller A.,Smith S.,Deakin S.,Burrows W.,2,1
+2025 PPA Red Rock Open,Round 32,2025-03-28,Newman R.,Ge A.,Ford Z.,Madonia S.,2,0
+2025 PPA Red Rock Open,Round 32,2025-03-28,Klinger C.,Johnson J.,Brown M.,Funemizu Y.,2,1
+2025 PPA Red Rock Open,Round 32,2025-03-28,Alshon C.,Daescu A.,Ayotte J.,Shaffer W.,2,0
+2025 PPA Red Rock Open,Round 32,2025-03-28,Bar D.,Frazier D.,Angelo S.,Newcombe R.,2,0
+2025 PPA Red Rock Open,Round 32,2025-03-28,Loong T.,Khlif N.,Bellamy R.,Fought T.,2,1
+2025 PPA Red Rock Open,Round 32,2025-03-28,Johnson H.,Duong Q.,Querrey S.,Sherry R.,2,0
+2025 PPA Red Rock Open,Round 32,2025-03-28,Fu R.,Garnett C.,Cincola J.,Wasson L.,2,0
+2025 PPA Red Rock Open,Round 32,2025-03-28,Vich J.,Wright M.,Goins J.,Rahachou S.,2,0
+2025 PPA Red Rock Open,Round 32,2025-03-28,Smith P.,Hovenier B.,De La Rosa D.,Emmrich M.,2,0
+2025 PPA Red Rock Open,Round 32,2025-03-28,Ignatowich J.,Freeman M.,Taylor C.,Johnson Y.,2,0
+2025 PPA Red Rock Open,Round 64,2025-03-28,Ayotte J.,Shaffer W.,Ray P.,Lenhard R.,2,0
+2025 PPA Red Rock Open,Round 64,2025-03-28,Brown M.,Funemizu Y.,Wolf M.,Kaoma J.,2,0
+2025 PPA Red Rock Open,Round 64,2025-03-28,Angelo S.,Newcombe R.,Jacobson B.,Smith R.,2,0
+2025 PPA Red Rock Open,Round 64,2025-03-28,Ayon E.,Poland J.,Ness L.,Mercado A.,0,2
+2025 PPA Veolia North Carolina Open,Finals,2025-04-06,Staksrud F.,Patriquin H.,Johns B.,Tardio G.,1,3
+2025 PPA Veolia North Carolina Open,Bronze Medal Match,2025-04-06,McGuffin T.,Bar D.,Oncins E.,Frazier D.,0,2
+2025 PPA Veolia North Carolina Open,Semi-Finals,2025-04-06,Staksrud F.,Patriquin H.,McGuffin T.,Bar D.,2,1
+2025 PPA Veolia North Carolina Open,Semi-Finals,2025-04-05,Johns B.,Tardio G.,Oncins E.,Frazier D.,2,0
+2025 PPA Veolia North Carolina Open,Quarter Finals,2025-04-04,Staksrud F.,Patriquin H.,Johns C.,Khlif N.,2,0
+2025 PPA Veolia North Carolina Open,Quarter Finals,2025-04-04,Alshon C.,Daescu A.,Oncins E.,Frazier D.,1,2
+2025 PPA Veolia North Carolina Open,Quarter Finals,2025-04-04,McGuffin T.,Bar D.,Garnett C.,Loong T.,2,0
+2025 PPA Veolia North Carolina Open,Quarter Finals,2025-04-04,Johns B.,Tardio G.,Klinger C.,Johnson J.,2,0
+2025 PPA Veolia North Carolina Open,Round 16,2025-04-04,Staksrud F.,Patriquin H.,De La Rosa D.,Emmrich M.,2,0
+2025 PPA Veolia North Carolina Open,Round 16,2025-04-04,Alshon C.,Daescu A.,Fu R.,Ignatowich J.,2,0
+2025 PPA Veolia North Carolina Open,Round 16,2025-04-04,Devilliers J.,Tellez P.,Garnett C.,Loong T.,1,2
+2025 PPA Veolia North Carolina Open,Round 16,2025-04-04,Johns B.,Tardio G.,Hovenier B.,Cincola J.,2,0
+2025 PPA Veolia North Carolina Open,Round 16,2025-04-04,McGuffin T.,Bar D.,French B.,Stone W.,2,0
+2025 PPA Veolia North Carolina Open,Round 16,2025-04-04,Oncins E.,Frazier D.,Newman R.,Smith P.,2,0
+2025 PPA Veolia North Carolina Open,Round 16,2025-04-04,Klinger C.,Johnson J.,Wright M.,Arnold J.,2,0
+2025 PPA Veolia North Carolina Open,Round 16,2025-04-04,Johns C.,Khlif N.,Johnson Y.,Brown M.,2,0
+2025 PPA Veolia North Carolina Open,Round 32,2025-04-04,McGuffin T.,Bar D.,Truong J.,Bieger D.,2,0
+2025 PPA Veolia North Carolina Open,Round 32,2025-04-04,Johns B.,Tardio G.,Benitez J.,Harvey A.,2,0
+2025 PPA Veolia North Carolina Open,Round 32,2025-04-04,Hewett R.,Johnson H.,Hovenier B.,Cincola J.,1,2
+2025 PPA Veolia North Carolina Open,Round 32,2025-04-04,Garnett C.,Loong T.,Koller A.,Smith S.,2,1
+2025 PPA Veolia North Carolina Open,Round 32,2025-04-04,Newman R.,Smith P.,Navratil Z.,Laura C.,2,0
+2025 PPA Veolia North Carolina Open,Round 32,2025-04-04,Klinger C.,Johnson J.,Dow G.,Scarpa A.,2,0
+2025 PPA Veolia North Carolina Open,Round 32,2025-04-04,Alshon C.,Daescu A.,Alhouni M.,Madonia S.,2,0
+2025 PPA Veolia North Carolina Open,Round 32,2025-04-04,Johns C.,Khlif N.,Delgado J.,Perez E.,2,0
+2025 PPA Veolia North Carolina Open,Round 32,2025-04-04,Oncins E.,Frazier D.,Boyle H.,Wetherell A.,2,0
+2025 PPA Veolia North Carolina Open,Round 32,2025-04-04,Wright M.,Arnold J.,Deakin S.,Jakovljevic I.,2,0
+2025 PPA Veolia North Carolina Open,Round 32,2025-04-04,Devilliers J.,Tellez P.,Freeman M.,Bellamy R.,2,0
+2025 PPA Veolia North Carolina Open,Round 32,2025-04-04,Young D.,Rettenmaier T.,French B.,Stone W.,0,2
+2025 PPA Veolia North Carolina Open,Round 32,2025-04-04,Ge A.,Vich J.,Johnson Y.,Brown M.,0,2
+2025 PPA Veolia North Carolina Open,Round 32,2025-04-04,Loyd M.,Duong Q.,De La Rosa D.,Emmrich M.,0,2
+2025 PPA Veolia North Carolina Open,Round 32,2025-04-04,Staksrud F.,Patriquin H.,Ford Z.,Evans T.,2,0
+2025 PPA Veolia North Carolina Open,Round 64,2025-04-04,Alhouni M.,Madonia S.,Alvarez J.,Naydenov R.,2,0
+2025 PPA Veolia North Carolina Open,Round 64,2025-04-04,Deakin S.,Jakovljevic I.,Steiner E.,Hobrath N.,2,1
+2025 PPA Veolia North Carolina Open,Round 64,2025-04-04,Delgado J.,Perez E.,Gilbert R.,Gilbert E.,2,0
+2025 PPA Veolia North Carolina Open,Round 64,2025-04-04,Wasson L.,Campbell C.,Boyle H.,Wetherell A.,1,2
+2025 PPA Veolia North Carolina Open,Round 64,2025-04-04,Johnson Y.,Brown M.,Powell F.,Protzek T.,2,0
+2025 PPA Veolia North Carolina Open,Round 64,2025-04-04,Querrey S.,Burrows W.,Truong J.,Bieger D.,0,2
+2025 PPA Veolia North Carolina Open,Round 64,2025-04-04,Trinh T.,Taylor C.,Ford Z.,Evans T.,1,2
+2025 PPA Veolia North Carolina Open,Round 64,2025-04-04,Dow G.,Scarpa A.,Giannelli J.,Caulfield K.,2,0
+2025 PPA Veolia North Carolina Open,Round 64,2025-04-04,Funemizu Y.,Teoni P.,Benitez J.,Harvey A.,0,2
+2025 PPA Veolia North Carolina Open,Round 64,2025-04-04,Freeman M.,Bellamy R.,Braham A.,Hilliard C.,2,0
+2025 PPA Veolia Atlanta Open,Finals,2025-05-18,Klinger C.,Johnson J.,Johns B.,Tardio G.,3,0
+2025 PPA Veolia Atlanta Open,Bronze Medal Match,2025-05-18,Bar D.,Frazier D.,Alshon C.,Daescu A.,0,2
+2025 PPA Veolia Atlanta Open,Semi-Finals,2025-05-17,Klinger C.,Johnson J.,Bar D.,Frazier D.,2,1
+2025 PPA Veolia Atlanta Open,Semi-Finals,2025-05-18,Johns B.,Tardio G.,Alshon C.,Daescu A.,2,1
+2025 PPA Veolia Atlanta Open,Quarter Finals,2025-05-16,Staksrud F.,Patriquin H.,Klinger C.,Johnson J.,1,2
+2025 PPA Veolia Atlanta Open,Quarter Finals,2025-05-16,Johns B.,Tardio G.,Wright M.,Newman R.,2,0
+2025 PPA Veolia Atlanta Open,Quarter Finals,2025-05-16,Bar D.,Frazier D.,Ignatowich J.,Johns C.,2,0
+2025 PPA Veolia Atlanta Open,Quarter Finals,2025-05-16,Alshon C.,Daescu A.,Devilliers J.,Ge A.,2,0
+2025 PPA Veolia Atlanta Open,Round 16,2025-05-15,Alshon C.,Daescu A.,Arnold J.,Smith P.,2,0
+2025 PPA Veolia Atlanta Open,Round 16,2025-05-15,Bar D.,Frazier D.,Fu R.,Freeman M.,2,1
+2025 PPA Veolia Atlanta Open,Round 16,2025-05-15,Klinger C.,Johnson J.,Hovenier B.,Young D.,2,0
+2025 PPA Veolia Atlanta Open,Round 16,2025-05-15,Vich J.,Tellez P.,Devilliers J.,Ge A.,0,2
+2025 PPA Veolia Atlanta Open,Round 16,2025-05-15,Wright M.,Newman R.,Garnett C.,Loong T.,2,1
+2025 PPA Veolia Atlanta Open,Round 16,2025-05-15,Johns B.,Tardio G.,Young D.,Rettenmaier T.,2,0
+2025 PPA Veolia Atlanta Open,Round 16,2025-05-15,Ignatowich J.,Johns C.,Johnson H.,Duong Q.,2,1
+2025 PPA Veolia Atlanta Open,Round 16,2025-05-15,Staksrud F.,Patriquin H.,Hewett R.,Oncins E.,2,0
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Alshon C.,Daescu A.,Trinh T.,Ford Z.,2,1
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Khlif N.,McGuffin T.,Hovenier B.,Young D.,1,2
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Devilliers J.,Ge A.,Afanasenka S.,Emery A.,2,0
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Garnett C.,Loong T.,Taylor C.,Smith S.,2,0
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Klinger C.,Johnson J.,Alhouni M.,Alhouni M.,2,0
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Hewett R.,Oncins E.,Johnson Y.,Brown M.,2,1
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Navratil Z.,Bellamy R.,Fu R.,Freeman M.,1,2
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Johnson H.,Duong Q.,Nsekpong B.,Bricker A.,2,0
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Wright M.,Newman R.,Lohani A.,Nemoff C.,2,0
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Arnold J.,Smith P.,Loyd M.,Emmrich M.,2,1
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Vich J.,Tellez P.,Campbell C.,Benitez J.,2,1
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Johns B.,Tardio G.,Dow G.,Scarpa A.,2,0
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Bar D.,Frazier D.,Perez E.,Harvey A.,2,0
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Ignatowich J.,Johns C.,Funemizu Y.,Johnson C.,2,0
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Staksrud F.,Patriquin H.,Deakin S.,Delgado J.,2,0
+2025 PPA Veolia Atlanta Open,Round 32,2025-05-14,Young D.,Rettenmaier T.,French B.,Stone W.,2,1
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,Koller A.,Jakovljevic I.,Afanasenka S.,Emery A.,0,2
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,Joseph G.,Wasson L.,Perez E.,Harvey A.,0,2
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,Funemizu Y.,Johnson C.,Goins J.,Rahachou S.,2,1
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,Deakin S.,Delgado J.,Querrey S.,Sherry R.,2,0
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,Dow G.,Scarpa A.,Madonia S.,Alvarez J.,2,0
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,Fu R.,Freeman M.,Gonnering Z.,Crum A.,2,0
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,Taylor C.,Smith S.,Parrish T.,Ayotte J.,2,1
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,Jensen D.,Burrows W.,Campbell C.,Benitez J.,1,2
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,French B.,Stone W.,Seagraves J.,Alhouni M.,2,0
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,Johnson Y.,Brown M.,Copetti P.,Garcia A.,2,0
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,Laura C.,Cincola J.,Lohani A.,Nemoff C.,0,2
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,Loyd M.,Emmrich M.,Mack L.,Varon J.,2,0
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,Hovenier B.,Young D.,Wild M.,Luhring C.,2,0
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,Trinh T.,Ford Z.,Whittaker R.,Protzek T.,2,0
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,Alhouni M.,Alhouni M.,Newcombe R.,Braham A.,2,0
+2025 PPA Veolia Atlanta Open,Round 64,2025-05-13,Lladro J.,Kinney J.,Nsekpong B.,Bricker A.,1,2
+2025 PPA Orange County Cup,Finals,2025-06-22,Johns B.,Tardio G.,Staksrud F.,Patriquin H.,3,2
+2025 PPA Orange County Cup,Bronze Medal Match,2025-06-22,Alshon C.,Daescu A.,Klinger C.,Johnson J.,0,2
+2025 PPA Orange County Cup,Semi-Finals,2025-06-22,Johns B.,Tardio G.,Alshon C.,Daescu A.,2,0
+2025 PPA Orange County Cup,Semi-Finals,2025-06-22,Staksrud F.,Patriquin H.,Klinger C.,Johnson J.,2,0
+2025 PPA Orange County Cup,Quarter Finals,2025-06-21,Alshon C.,Daescu A.,Rettenmaier T.,Garnett C.,2,1
+2025 PPA Orange County Cup,Quarter Finals,2025-06-21,Johns B.,Tardio G.,Ignatowich J.,Johns C.,2,0
+2025 PPA Orange County Cup,Quarter Finals,2025-06-20,Klinger C.,Johnson J.,Khlif N.,McGuffin T.,2,1
+2025 PPA Orange County Cup,Quarter Finals,2025-06-20,Staksrud F.,Patriquin H.,Inn R.,Williams L.,2,0
+2025 PPA Orange County Cup,Round 16,2025-06-20,Khlif N.,McGuffin T.,Johnson H.,Ge A.,2,0
+2025 PPA Orange County Cup,Round 16,2025-06-20,Vich J.,Tellez P.,Rettenmaier T.,Garnett C.,1,2
+2025 PPA Orange County Cup,Round 16,2025-06-20,Klinger C.,Johnson J.,Arnold J.,Smith P.,2,1
+2025 PPA Orange County Cup,Round 16,2025-06-20,Ignatowich J.,Johns C.,Truong J.,Lee S.,2,0
+2025 PPA Orange County Cup,Round 16,2025-06-19,Inn R.,Williams L.,Smith S.,Loong T.,2,0
+2025 PPA Orange County Cup,Round 16,2025-06-20,Staksrud F.,Patriquin H.,Devilliers J.,Goldin G.,2,1
+2025 PPA Orange County Cup,Round 16,2025-06-20,Johns B.,Tardio G.,French B.,Stone W.,2,0
+2025 PPA Orange County Cup,Round 16,2025-06-20,Alshon C.,Daescu A.,Oncins E.,Young D.,2,1
+2025 PPA Orange County Cup,Round 32,2025-06-19,Ignatowich J.,Johns C.,Brown M.,Alhouni M.,2,1
+2025 PPA Orange County Cup,Round 32,2025-06-19,Johns B.,Tardio G.,Campbell C.,Harvey A.,2,0
+2025 PPA Orange County Cup,Round 32,2025-06-19,Koller A.,Hovenier B.,French B.,Stone W.,1,2
+2025 PPA Orange County Cup,Round 32,2025-06-18,Alshon C.,Daescu A.,Sock J.,Roddy E.,2,0
+2025 PPA Orange County Cup,Round 32,2025-06-18,Staksrud F.,Patriquin H.,Protzek T.,Goins J.,2,0
+2025 PPA Orange County Cup,Round 32,2025-06-18,Smith S.,Loong T.,Nsekpong B.,Bricker A.,2,0
+2025 PPA Orange County Cup,Round 32,2025-06-18,Bellamy R.,Wright M.,Truong J.,Lee S.,0,2
+2025 PPA Orange County Cup,Round 32,2025-06-18,Inn R.,Williams L.,Alhouni M.,Whittaker R.,2,0
+2025 PPA Orange County Cup,Round 32,2025-06-19,Johnson H.,Ge A.,Afanasenka S.,Emery A.,2,0
+2025 PPA Orange County Cup,Round 32,2025-06-18,Arnold J.,Smith P.,Loyd M.,Emmrich M.,2,1
+2025 PPA Orange County Cup,Round 32,2025-06-19,Khlif N.,McGuffin T.,Laura C.,Trinh T.,2,1
+2025 PPA Orange County Cup,Round 32,2025-06-19,Navratil Z.,Ford Z.,Oncins E.,Young D.,0,2
+2025 PPA Orange County Cup,Round 32,2025-06-19,Vich J.,Tellez P.,Taylor C.,Johnson Y.,2,0
+2025 PPA Orange County Cup,Round 32,2025-06-19,Klinger C.,Johnson J.,Deakin S.,Delgado J.,2,0
+2025 PPA Orange County Cup,Round 32,2025-06-18,Devilliers J.,Goldin G.,Dow G.,Jakovljevic I.,2,0
+2025 PPA Orange County Cup,Round 32,2025-06-19,Rettenmaier T.,Garnett C.,Dawson C.,Blaszkewycz E.,2,0
+2025 PPA Orange County Cup,Round 64,2025-06-18,Koller A.,Hovenier B.,Long A.,Wan A.,2,0
+2025 PPA Orange County Cup,Round 64,2025-06-18,Loyd M.,Emmrich M.,Losbergs M.,Litvinov D.,2,1
+2025 PPA Orange County Cup,Round 64,2025-06-18,Dow G.,Jakovljevic I.,Amiri A.,Amiri F.,2,0
+2025 PPA Orange County Cup,Round 64,2025-06-18,Funemizu Y.,Johnson C.,Protzek T.,Goins J.,1,2
+2025 PPA Orange County Cup,Round 64,2025-06-18,Taylor C.,Johnson Y.,Rahachou S.,Joseph G.,2,0
+2025 PPA Orange County Cup,Round 64,2025-06-18,Teoni P.,Nemoff C.,Campbell C.,Harvey A.,1,2
+2025 PPA Orange County Cup,Round 64,2025-06-18,Devilliers J.,Goldin G.,Pham L.,Feliz A.,2,0
+2025 PPA Orange County Cup,Round 64,2025-06-18,Hewett R.,Benitez J.,Truong J.,Lee S.,0,2
+2025 PPA Orange County Cup,Round 64,2025-06-18,Deakin S.,Delgado J.,Querrey S.,Burrows W.,2,1
+2025 PPA Orange County Cup,Round 64,2025-06-18,Alvarez J.,Wasson L.,Laura C.,Trinh T.,0,2
+2025 PPA Orange County Cup,Round 64,2025-06-18,Alhouni M.,Whittaker R.,Palm D.,Black N.,2,0
+2025 PPA Orange County Cup,Round 64,2025-06-18,French B.,Stone W.,Edwards J.,Parrish T.,2,1
+2025 PPA Orange County Cup,Round 64,2025-06-18,Fu R.,Freeman M.,Dawson C.,Blaszkewycz E.,1,2
+2025 PPA Orange County Cup,Round 64,2025-06-18,Brown M.,Alhouni M.,Pailet E.,Grollman J.,2,0
+2025 PPA Orange County Cup,Round 64,2025-06-18,Cincola J.,De La Rosa D.,Nsekpong B.,Bricker A.,1,2
+2025 PPA Orange County Cup,Round 64,2025-06-17,Oncins E.,Young D.,Chrysostom J.,Kaoma J.,2,0
+2025 PPA Orange County Cup,Round 64,2025-06-18,Young D.,Fought T.,Afanasenka S.,Emery A.,1,2
+2025 PPA Orange County Cup,Round 64,2025-06-18,Sock J.,Roddy E.,Perez E.,Madonia S.,2,1
+2025 PPA Bristol Open,Finals,2025-08-10,Johns B.,Tardio G.,Vich J.,Wright M.,3,0
+2025 PPA Bristol Open,Bronze Medal Match,2025-08-10,Newman R.,Devilliers J.,Freeman M.,McGuffin T.,2,0
+2025 PPA Bristol Open,Semi-Finals,2025-08-09,Vich J.,Wright M.,Freeman M.,McGuffin T.,2,1
+2025 PPA Bristol Open,Semi-Finals,2025-08-09,Johns B.,Tardio G.,Newman R.,Devilliers J.,2,1
+2025 PPA Bristol Open,Quarter Finals,2025-08-08,Young D.,Roddy E.,Newman R.,Devilliers J.,1,2
+2025 PPA Bristol Open,Quarter Finals,2025-08-08,Johns B.,Tardio G.,Benitez J.,Rettenmaier T.,2,0
+2025 PPA Bristol Open,Quarter Finals,2025-08-08,Daescu A.,Johnson J.,Freeman M.,McGuffin T.,1,2
+2025 PPA Bristol Open,Quarter Finals,2025-08-08,Staksrud F.,Patriquin H.,Vich J.,Wright M.,1,2
+2025 PPA Bristol Open,Round 16,2025-08-08,Newman R.,Devilliers J.,Garnett C.,Loong T.,2,0
+2025 PPA Bristol Open,Round 16,2025-08-08,Vich J.,Wright M.,Klinger C.,Whittaker R.,2,0
+2025 PPA Bristol Open,Round 16,2025-08-08,Daescu A.,Johnson J.,Sock J.,Ge A.,2,0
+2025 PPA Bristol Open,Round 16,2025-08-08,Dow G.,Scarpa A.,Benitez J.,Rettenmaier T.,1,2
+2025 PPA Bristol Open,Round 16,2025-08-08,Johns B.,Tardio G.,Arnold J.,Hovenier B.,2,0
+2025 PPA Bristol Open,Round 16,2025-08-08,Ford Z.,Crum A.,Young D.,Roddy E.,0,2
+2025 PPA Bristol Open,Round 16,2025-08-08,Tellez P.,Oncins E.,Freeman M.,McGuffin T.,0,2
+2025 PPA Bristol Open,Round 16,2025-08-08,Staksrud F.,Patriquin H.,Johnson H.,Johnson Y.,2,0
+2025 PPA Bristol Open,Round 32,2025-08-08,Klinger C.,Whittaker R.,Jakovljevic I.,Young D.,2,0
+2025 PPA Bristol Open,Round 32,2025-08-08,Sock J.,Ge A.,French B.,Stone W.,2,1
+2025 PPA Bristol Open,Round 32,2025-08-08,Delgado J.,Johns C.,Ford Z.,Crum A.,1,2
+2025 PPA Bristol Open,Round 32,2025-08-08,Arnold J.,Hovenier B.,De La Rosa D.,Fought T.,2,1
+2025 PPA Bristol Open,Round 32,2025-08-08,Garnett C.,Loong T.,Smith S.,Alhouni M.,2,0
+2025 PPA Bristol Open,Round 32,2025-08-08,Freeman M.,McGuffin T.,Loyd M.,Emmrich M.,2,0
+2025 PPA Bristol Open,Round 32,2025-08-08,Tellez P.,Oncins E.,Truong J.,Bieger D.,2,0
+2025 PPA Bristol Open,Round 32,2025-08-08,Vich J.,Wright M.,Harvey A.,Protzek T.,2,0
+2025 PPA Bristol Open,Round 32,2025-08-08,Daescu A.,Johnson J.,Campbell C.,Teoni P.,2,0
+2025 PPA Bristol Open,Round 32,2025-08-08,Koller A.,Hewett R.,Young D.,Roddy E.,0,2
+2025 PPA Bristol Open,Round 32,2025-08-08,Frazier D.,Khlif N.,Dow G.,Scarpa A.,0,2
+2025 PPA Bristol Open,Round 32,2025-08-08,Newman R.,Devilliers J.,Nsekpong B.,Bricker A.,2,0
+2025 PPA Bristol Open,Round 32,2025-08-08,Johns B.,Tardio G.,Funemizu Y.,Goldin G.,2,0
+2025 PPA Bristol Open,Round 32,2025-08-08,Staksrud F.,Patriquin H.,Taylor C.,Cincola J.,2,0
+2025 PPA Bristol Open,Round 64,2025-08-08,Jakovljevic I.,Young D.,Mercado A.,Kaoma J.,2,0
+2025 PPA Bristol Open,Round 64,2025-08-08,Smith S.,Alhouni M.,Mack L.,Varon J.,2,0
+2025 PPA Bristol Open,Round 64,2025-08-08,Benitez J.,Rettenmaier T.,Chaffin C.,Pascoe L.,2,0
+2025 PPA Bristol Open,Round 64,2025-08-08,Loyd M.,Emmrich M.,Parichkov F.,Rangelov G.,2,0
+2025 PPA Bristol Open,Round 64,2025-08-08,Garcia E.,Johnson C.,Funemizu Y.,Goldin G.,0,2
+2025 PPA Bristol Open,Round 64,2025-08-08,Dow G.,Scarpa A.,Gonnering Z.,Berryman B.,2,1
+2025 PPA Bristol Open,Round 64,2025-08-08,Campbell C.,Teoni P.,Goins J.,Alvarez J.,2,1
+2025 PPA Bristol Open,Round 64,2025-08-08,Young D.,Roddy E.,Guy A.,Randt J.,2,1
+2025 PPA Bristol Open,Round 64,2025-08-08,Brown M.,Deakin S.,Truong J.,Bieger D.,0,2
+2025 PPA Bristol Open,Round 64,2025-08-08,French B.,Stone W.,Hamaguchi K.,Medina J.,2,0
+2025 PPA Bristol Open,Round 64,2025-08-08,Harvey A.,Protzek T.,Jagtiani S.,Serra O.,2,0
+2025 PPA Bristol Open,Round 64,2025-08-08,Nemoff C.,Alhouni M.,Nsekpong B.,Bricker A.,0,2
+2025 PPA Bristol Open,Round 64,2025-08-08,Taylor C.,Cincola J.,Perez E.,Madonia S.,2,0
+2025 PPA Bristol Open,Round 64,2025-08-08,Ford Z.,Crum A.,Braham A.,Chrysostom J.,2,0
+2025 PPA Las Vegas Strip Open,Finals,2025-08-31,Johns B.,Tardio G.,Alshon C.,Daescu A.,3,1
+2025 PPA Las Vegas Strip Open,Bronze Medal Match,2025-08-31,Oncins E.,Wright M.,Staksrud F.,Patriquin H.,1,2
+2025 PPA Las Vegas Strip Open,Semi-Finals,2025-08-31,Staksrud F.,Patriquin H.,Alshon C.,Daescu A.,0,2
+2025 PPA Las Vegas Strip Open,Semi-Finals,2025-08-30,Johns B.,Tardio G.,Oncins E.,Wright M.,2,0
+2025 PPA Las Vegas Strip Open,Quarter Finals,2025-08-30,Staksrud F.,Patriquin H.,Newman R.,Devilliers J.,2,0
+2025 PPA Las Vegas Strip Open,Quarter Finals,2025-08-30,Johns B.,Tardio G.,Frazier D.,Khlif N.,2,0
+2025 PPA Las Vegas Strip Open,Quarter Finals,2025-08-30,Alshon C.,Daescu A.,Koller A.,Funemizu Y.,2,0
+2025 PPA Las Vegas Strip Open,Quarter Finals,2025-08-30,Klinger C.,McGuffin T.,Oncins E.,Wright M.,1,2
+2025 PPA Las Vegas Strip Open,Round 16,2025-08-30,Vich J.,Tellez P.,Koller A.,Funemizu Y.,1,2
+2025 PPA Las Vegas Strip Open,Round 16,2025-08-30,Newman R.,Devilliers J.,Emery A.,Millet A.,2,0
+2025 PPA Las Vegas Strip Open,Round 16,2025-08-30,Johns B.,Tardio G.,Hovenier B.,Young D.,2,0
+2025 PPA Las Vegas Strip Open,Round 16,2025-08-30,Frazier D.,Khlif N.,Benitez J.,Alhouni M.,2,0
+2025 PPA Las Vegas Strip Open,Round 16,2025-08-30,Teoni P.,Truong J.,Oncins E.,Wright M.,0,2
+2025 PPA Las Vegas Strip Open,Round 16,2025-08-30,Staksrud F.,Patriquin H.,Hewett R.,Brown M.,2,1
+2025 PPA Las Vegas Strip Open,Round 16,2025-08-30,Klinger C.,McGuffin T.,Johnson H.,Johnson Y.,2,0
+2025 PPA Las Vegas Strip Open,Round 16,2025-08-30,Alshon C.,Daescu A.,French B.,Stone W.,2,0
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,Rettenmaier T.,Arnold J.,Emery A.,Millet A.,1,2
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,Vich J.,Tellez P.,Harvey A.,Protzek T.,2,1
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,Delgado J.,Johns C.,Benitez J.,Alhouni M.,1,2
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,Alshon C.,Daescu A.,Joseph G.,Wasson L.,2,0
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,Klinger C.,McGuffin T.,Laura C.,Trinh T.,2,0
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,Newman R.,Devilliers J.,Jakovljevic I.,Haworth C.,2,0
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,Staksrud F.,Patriquin H.,Merchant A.,Deakin S.,2,0
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,Payetta L.,Dayan K.,Teoni P.,Truong J.,0,2
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,Frazier D.,Khlif N.,Ayon E.,Poland J.,2,0
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,Ignatowich J.,Freeman M.,Koller A.,Funemizu Y.,1,2
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,Johns B.,Tardio G.,Pereyra L.,Khalid U.,2,0
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,Hewett R.,Brown M.,Taylor C.,Smith S.,2,0
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,Johnson H.,Johnson Y.,Bellamy R.,Young D.,2,1
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,Hovenier B.,Young D.,Alhouni M.,Cincola J.,2,0
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,French B.,Stone W.,Smith P.,Fu R.,2,0
+2025 PPA Las Vegas Strip Open,Round 32,2025-08-30,Oncins E.,Wright M.,Sock J.,Loyd M.,2,0
+2025 PPA Las Vegas Strip Open,Round 64,2025-08-30,Morris J.,Angelo S.,Emery A.,Millet A.,1,2
+2025 PPA Las Vegas Strip Open,Round 64,2025-08-30,Joseph G.,Wasson L.,Goins J.,Whittaker R.,2,0
+2025 PPA Las Vegas Strip Open,Round 64,2025-08-30,Harvey A.,Protzek T.,Black N.,Chrysostom J.,2,0
+2025 PPA Las Vegas Strip Open,Round 64,2025-08-30,Benitez J.,Alhouni M.,Rahachou S.,Kim E.,2,0
+2025 PPA Las Vegas Strip Open,Round 64,2025-08-30,Goldin G.,Madonia S.,Laura C.,Trinh T.,1,2
+2025 PPA Las Vegas Strip Open,Round 64,2025-08-30,Merchant A.,Deakin S.,Perez E.,Crum A.,2,1
+2025 PPA Las Vegas Strip Open,Round 64,2025-08-30,Johnson C.,Nemoff C.,Ayon E.,Poland J.,0,2
+2025 PPA Las Vegas Strip Open,Round 64,2025-08-30,Sock J.,Loyd M.,Buchhauser B.,Kikkawa K.,2,0
+2025 PPA Las Vegas Strip Open,Round 64,2025-08-30,Teoni P.,Truong J.,Newcombe R.,Braham A.,2,1
+2025 PPA Las Vegas Strip Open,Round 64,2025-08-30,Campbell C.,Burrows W.,Pereyra L.,Khalid U.,1,2
+2025 PPA Las Vegas Strip Open,Round 64,2025-08-30,Jakovljevic I.,Haworth C.,Gonnering Z.,Berryman B.,2,0
+2025 PPA Las Vegas Strip Open,Round 64,2025-08-30,Koller A.,Funemizu Y.,Byun D.,Wan A.,2,1
+2025 PPA Cincinnati Cup,Finals,2025-09-14,Johns B.,Tardio G.,Alshon C.,Daescu A.,3,0
+2025 PPA Cincinnati Cup,Bronze Medal Match,2025-09-14,Klinger C.,Johnson J.,Staksrud F.,Patriquin H.,2,1
+2025 PPA Cincinnati Cup,Semi-Finals,2025-09-13,Staksrud F.,Patriquin H.,Alshon C.,Daescu A.,1,2
+2025 PPA Cincinnati Cup,Semi-Finals,2025-09-13,Johns B.,Tardio G.,Klinger C.,Johnson J.,2,0
+2025 PPA Cincinnati Cup,Quarter Finals,2025-09-12,Klinger C.,Johnson J.,Newman R.,Devilliers J.,2,0
+2025 PPA Cincinnati Cup,Quarter Finals,2025-09-12,Staksrud F.,Patriquin H.,Frazier D.,Vich J.,2,0
+2025 PPA Cincinnati Cup,Quarter Finals,2025-09-12,Johns B.,Tardio G.,Khlif N.,Hewett R.,2,0
+2025 PPA Cincinnati Cup,Quarter Finals,2025-09-12,Alshon C.,Daescu A.,Johnson H.,McGuffin T.,2,0
+2025 PPA Cincinnati Cup,Round 16,2025-09-11,Johnson H.,McGuffin T.,Ignatowich J.,Ge A.,2,0
+2025 PPA Cincinnati Cup,Round 16,2025-09-11,Alshon C.,Daescu A.,Sock J.,Young D.,2,0
+2025 PPA Cincinnati Cup,Round 16,2025-09-11,Klinger C.,Johnson J.,Brown M.,Dow G.,2,0
+2025 PPA Cincinnati Cup,Round 16,2025-09-11,Frazier D.,Vich J.,Truong J.,Tellez P.,2,0
+2025 PPA Cincinnati Cup,Round 16,2025-09-11,Newman R.,Devilliers J.,Oncins E.,Wright M.,2,0
+2025 PPA Cincinnati Cup,Round 16,2025-09-11,Delgado J.,Johns C.,Khlif N.,Hewett R.,0,2
+2025 PPA Cincinnati Cup,Round 16,2025-09-11,Staksrud F.,Patriquin H.,Fu R.,Freeman M.,2,1
+2025 PPA Cincinnati Cup,Round 32,2025-09-10,Bellamy R.,Arnold J.,Brown M.,Dow G.,0,2
+2025 PPA Cincinnati Cup,Round 32,2025-09-10,Newman R.,Devilliers J.,Protzek T.,Goins J.,2,1
+2025 PPA Cincinnati Cup,Round 32,2025-09-10,Truong J.,Tellez P.,De La Rosa D.,Johnson Y.,2,0
+2025 PPA Cincinnati Cup,Round 32,2025-09-10,Klinger C.,Johnson J.,Johnson C.,Nemoff C.,2,0
+2025 PPA Cincinnati Cup,Round 32,2025-09-10,Garnett C.,Navratil Z.,Sock J.,Young D.,0,2
+2025 PPA Cincinnati Cup,Round 32,2025-09-10,Frazier D.,Vich J.,Nsekpong B.,Bricker A.,2,0
+2025 PPA Cincinnati Cup,Round 32,2025-09-10,Ignatowich J.,Ge A.,Koller A.,Funemizu Y.,2,0
+2025 PPA Cincinnati Cup,Round 32,2025-09-10,Staksrud F.,Patriquin H.,Taylor C.,Cincola J.,2,0
+2025 PPA Cincinnati Cup,Round 32,2025-09-10,Johnson H.,McGuffin T.,Teoni P.,Perez E.,2,0
+2025 PPA Cincinnati Cup,Round 32,2025-09-10,Alshon C.,Daescu A.,Campbell C.,Harvey A.,2,0
+2025 PPA Cincinnati Cup,Round 32,2025-09-10,Khlif N.,Hewett R.,Loyd M.,Emmrich M.,2,0
+2025 PPA Cincinnati Cup,Round 32,2025-09-10,Loong T.,Goldin G.,Fu R.,Freeman M.,0,2
+2025 PPA Cincinnati Cup,Round 32,2025-09-10,Oncins E.,Wright M.,Marquez V.,Garcia A.,2,0
+2025 PPA Cincinnati Cup,Round 32,2025-09-10,Smith P.,Hovenier B.,Stone W.,Young D.,2,1
+2025 PPA Cincinnati Cup,Round 32,2025-09-10,Johns B.,Tardio G.,Crum A.,Benitez J.,2,0
+2025 PPA Cincinnati Cup,Round 64,2025-09-09,Trinh T.,Ford Z.,Khalid U.,Romano N.,2,0
+2025 PPA Cincinnati Cup,Round 64,2025-09-09,Johnson C.,Nemoff C.,Whittaker R.,Haworth C.,2,0
+2025 PPA Cincinnati Cup,Round 64,2025-09-09,De La Rosa D.,Johnson Y.,Mok J.,Kheireddin B.,2,0
+2025 PPA Cincinnati Cup,Round 64,2025-09-09,Sock J.,Young D.,Marrero D.,Shimabukuro T.,2,0
+2025 PPA Cincinnati Cup,Round 64,2025-09-09,Alhouni M.,French B.,Marquez V.,Garcia A.,1,2
+2025 PPA Cincinnati Cup,Round 64,2025-09-09,Loyd M.,Emmrich M.,Caulfield K.,Miron D.,2,0
+2025 PPA Cincinnati Cup,Round 64,2025-09-09,Jakovljevic I.,Sherry R.,Crum A.,Benitez J.,1,2
+2025 PPA Cincinnati Cup,Round 64,2025-09-09,Koller A.,Funemizu Y.,Bryant W.,Blocker C.,2,0
+2025 PPA Cincinnati Cup,Round 64,2025-09-09,Madonia S.,Roddy E.,Nsekpong B.,Bricker A.,0,2
+2025 PPA Cincinnati Cup,Round 64,2025-09-09,Taylor C.,Cincola J.,Querrey S.,Burrows W.,2,0
+2025 PPA Cincinnati Cup,Round 64,2025-09-09,Brown M.,Dow G.,Chaffin C.,Luhring C.,2,0
+2025 PPA Cincinnati Cup,Round 64,2025-09-09,Smith S.,Alhouni M.,Protzek T.,Goins J.,1,2
+2025 PPA Cincinnati Cup,Round 64,2025-09-09,Campbell C.,Harvey A.,Merchant A.,Deakin S.,2,1
+2025 PPA Cincinnati Cup,Round 64,2025-09-09,Teoni P.,Perez E.,Joseph G.,Wasson L.,2,0
+2025 PPA Sacramento Vintage Open,Finals,2025-09-28,Johnson J.,Frazier D.,Ignatowich J.,Ge A.,3,0
+2025 PPA Sacramento Vintage Open,Bronze Medal Match,2025-09-28,Daescu A.,Johns C.,Newman R.,Devilliers J.,2,1
+2025 PPA Sacramento Vintage Open,Semi-Finals,2025-09-28,Ignatowich J.,Ge A.,Newman R.,Devilliers J.,2,0
+2025 PPA Sacramento Vintage Open,Semi-Finals,2025-09-28,Daescu A.,Johns C.,Johnson J.,Frazier D.,1,2
+2025 PPA Sacramento Vintage Open,Quarter Finals,2025-09-27,Daescu A.,Johns C.,Garnett C.,Loong T.,2,1
+2025 PPA Sacramento Vintage Open,Quarter Finals,2025-09-27,Khlif N.,Tardio G.,Newman R.,Devilliers J.,0,2
+2025 PPA Sacramento Vintage Open,Quarter Finals,2025-09-27,Johnson J.,Frazier D.,Vich J.,Tellez P.,2,0
+2025 PPA Sacramento Vintage Open,Quarter Finals,2025-09-27,Sock J.,French B.,Ignatowich J.,Ge A.,0,2
+2025 PPA Sacramento Vintage Open,Round 16,2025-09-27,Daescu A.,Johns C.,Bellamy R.,Stone W.,2,0
+2025 PPA Sacramento Vintage Open,Round 16,2025-09-27,Newman R.,Devilliers J.,Losbergs M.,MacKinnon W.,2,1
+2025 PPA Sacramento Vintage Open,Round 16,2025-09-27,Khlif N.,Tardio G.,Jakovljevic I.,Smith S.,2,0
+2025 PPA Sacramento Vintage Open,Round 16,2025-09-27,Ignatowich J.,Ge A.,Rettenmaier T.,Arnold J.,2,0
+2025 PPA Sacramento Vintage Open,Round 16,2025-09-27,Wright M.,Staksrud F.,Sock J.,French B.,1,2
+2025 PPA Sacramento Vintage Open,Round 16,2025-09-27,Vich J.,Tellez P.,Smith P.,Hovenier B.,2,1
+2025 PPA Sacramento Vintage Open,Round 16,2025-09-27,Johnson J.,Frazier D.,Brown M.,Alhouni M.,2,0
+2025 PPA Sacramento Vintage Open,Round 16,2025-09-27,Garnett C.,Loong T.,Koller A.,De La Rosa D.,2,0
+2025 PPA Sacramento Vintage Open,Round 32,2025-09-27,Brown M.,Alhouni M.,Laura C.,Freeman M.,2,0
+2025 PPA Sacramento Vintage Open,Round 32,2025-09-27,Johnson H.,Johnson Y.,Losbergs M.,MacKinnon W.,0,2
+2025 PPA Sacramento Vintage Open,Round 32,2025-09-27,Jakovljevic I.,Smith S.,Taylor C.,Cincola J.,2,0
+2025 PPA Sacramento Vintage Open,Round 32,2025-09-27,Rettenmaier T.,Arnold J.,Campbell C.,Dow G.,2,1
+2025 PPA Sacramento Vintage Open,Round 32,2025-09-27,Sock J.,French B.,Copetti P.,Garcia A.,2,0
+2025 PPA Sacramento Vintage Open,Round 32,2025-09-27,Koller A.,De La Rosa D.,Haworth C.,Protzek T.,2,0
+2025 PPA Sacramento Vintage Open,Round 32,2025-09-27,Garnett C.,Loong T.,Schlecht L.,Cooperman J.,2,0
+2025 PPA Sacramento Vintage Open,Round 32,2025-09-27,Bellamy R.,Stone W.,Teoni P.,Johnson C.,2,0
+2025 PPA Virginia Beach Cup,Finals,2025-10-13,Johns B.,Tardio G.,Klinger C.,Johnson J.,3,0
+2025 PPA Virginia Beach Cup,Bronze Medal Match,2025-10-11,Alshon C.,Daescu A.,Devilliers J.,Wright M.,0,0
+2025 PPA Virginia Beach Cup,Semi-Finals,2025-10-11,Devilliers J.,Wright M.,Klinger C.,Johnson J.,0,2
+2025 PPA Virginia Beach Cup,Semi-Finals,2025-10-11,Johns B.,Tardio G.,Alshon C.,Daescu A.,2,0
+2025 PPA Virginia Beach Cup,Quarter Finals,2025-10-10,Klinger C.,Johnson J.,McGuffin T.,Bar D.,2,1
+2025 PPA Virginia Beach Cup,Quarter Finals,2025-10-10,Alshon C.,Daescu A.,Bellamy R.,Young D.,2,0
+2025 PPA Virginia Beach Cup,Quarter Finals,2025-10-10,Johns B.,Tardio G.,Oncins E.,Frazier D.,2,0
+2025 PPA Virginia Beach Cup,Quarter Finals,2025-10-10,Staksrud F.,Patriquin H.,Devilliers J.,Wright M.,1,2
+2025 PPA Virginia Beach Cup,Round 16,2025-10-09,Staksrud F.,Patriquin H.,Garnett C.,Navratil Z.,2,0
+2025 PPA Virginia Beach Cup,Round 16,2025-10-09,Vich J.,Tellez P.,Bellamy R.,Young D.,1,2
+2025 PPA Virginia Beach Cup,Round 16,2025-10-09,Oncins E.,Frazier D.,Sock J.,Roddy E.,2,0
+2025 PPA Virginia Beach Cup,Round 16,2025-10-09,Johns B.,Tardio G.,Arnold J.,Hovenier B.,2,0
+2025 PPA Virginia Beach Cup,Round 16,2025-10-09,McGuffin T.,Bar D.,Ignatowich J.,Freeman M.,2,1
+2025 PPA Virginia Beach Cup,Round 16,2025-10-09,Klinger C.,Johnson J.,Brown M.,Young D.,2,0
+2025 PPA Virginia Beach Cup,Round 16,2025-10-09,Devilliers J.,Wright M.,Trinh T.,Truong J.,2,1
+2025 PPA Virginia Beach Cup,Round 16,2025-10-09,Alshon C.,Daescu A.,Loyd M.,Emmrich M.,2,0
+2025 PPA Virginia Beach Cup,Round 32,2025-10-09,Khlif N.,Hewett R.,Bellamy R.,Young D.,1,2
+2025 PPA Virginia Beach Cup,Round 32,2025-10-09,Loong T.,Fu R.,Loyd M.,Emmrich M.,1,2
+2025 PPA Virginia Beach Cup,Round 32,2025-10-09,Oncins E.,Frazier D.,Goldin G.,Johnson Y.,2,0
+2025 PPA Virginia Beach Cup,Round 32,2025-10-09,Johnson H.,Ge A.,Sock J.,Roddy E.,1,2
+2025 PPA Virginia Beach Cup,Round 32,2025-10-08,Alshon C.,Daescu A.,Laura C.,Jakovljevic I.,2,0
+2025 PPA Virginia Beach Cup,Round 32,2025-10-09,McGuffin T.,Bar D.,Ford Z.,Goins J.,2,1
+2025 PPA Virginia Beach Cup,Round 32,2025-10-09,Devilliers J.,Wright M.,Campbell C.,Harvey A.,2,1
+2025 PPA Virginia Beach Cup,Round 32,2025-10-09,Vich J.,Tellez P.,Hamaguchi K.,Braham A.,2,0
+2025 PPA Virginia Beach Cup,Round 32,2025-10-08,Klinger C.,Johnson J.,Whittaker R.,Chaffin C.,2,0
+2025 PPA Virginia Beach Cup,Round 32,2025-10-08,Newman R.,Smith P.,Trinh T.,Truong J.,1,2
+2025 PPA Virginia Beach Cup,Round 32,2025-10-08,Arnold J.,Hovenier B.,French B.,Stone W.,2,0
+2025 PPA Virginia Beach Cup,Round 32,2025-10-08,Garnett C.,Navratil Z.,Taylor C.,Smith S.,2,0
+2025 PPA Virginia Beach Cup,Round 32,2025-10-09,Ignatowich J.,Freeman M.,Delgado J.,De La Rosa D.,2,0
+2025 PPA Virginia Beach Cup,Round 32,2025-10-08,Rettenmaier T.,Koller A.,Brown M.,Young D.,1,2
+2025 PPA Virginia Beach Cup,Round 32,2025-10-09,Staksrud F.,Patriquin H.,Dow G.,Scarpa A.,2,1
+2025 PPA Virginia Beach Cup,Round 32,2025-10-08,Johns B.,Tardio G.,Alvarez J.,Crum A.,2,0
+2025 PPA Virginia Beach Cup,Round 64,2025-10-07,Trinh T.,Truong J.,Risi H.,Schwarzmann T.,2,0
+2025 PPA Virginia Beach Cup,Round 64,2025-10-07,Laura C.,Jakovljevic I.,Wasson L.,Perez E.,2,0
+2025 PPA Virginia Beach Cup,Round 64,2025-10-07,Rahachou S.,Cincola J.,Hamaguchi K.,Braham A.,0,2
+2025 PPA Virginia Beach Cup,Round 64,2025-10-07,Goldin G.,Johnson Y.,Dussault T.,Horricks E.,2,0
+2025 PPA Virginia Beach Cup,Round 64,2025-10-07,Alhouni M.,Alhouni M.,Whittaker R.,Chaffin C.,1,2
+2025 PPA Virginia Beach Cup,Round 64,2025-10-07,Sock J.,Roddy E.,Giannelli J.,Naydenov R.,2,0
+2025 PPA Virginia Beach Cup,Round 64,2025-10-07,Deakin S.,Burrows W.,Alvarez J.,Crum A.,0,2
+2025 PPA Virginia Beach Cup,Round 64,2025-10-07,Dow G.,Scarpa A.,Haworth C.,Protzek T.,2,0
+2025 PPA Virginia Beach Cup,Round 64,2025-10-07,Campbell C.,Harvey A.,Vero-Casavant C.,Bieger D.,2,0
+2025 PPA Virginia Beach Cup,Round 64,2025-10-07,Ford Z.,Goins J.,Gonnering Z.,Berryman B.,2,0
+2025 PPA Rate Vegas Open,Finals,2025-10-26,Johns B.,Tardio G.,Alshon C.,Daescu A.,3,2
+2025 PPA Rate Vegas Open,Bronze Medal Match,2025-10-26,Staksrud F.,Patriquin H.,Oncins E.,Wright M.,2,0
+2025 PPA Rate Vegas Open,Semi-Finals,2025-10-25,Alshon C.,Daescu A.,Oncins E.,Wright M.,2,0
+2025 PPA Rate Vegas Open,Semi-Finals,2025-10-25,Johns B.,Tardio G.,Staksrud F.,Patriquin H.,2,0
+2025 PPA Rate Vegas Open,Quarter Finals,2025-10-24,Johnson J.,Frazier D.,Oncins E.,Wright M.,1,2
+2025 PPA Rate Vegas Open,Quarter Finals,2025-10-24,Staksrud F.,Patriquin H.,Newman R.,Khlif N.,1,1
+2025 PPA Rate Vegas Open,Quarter Finals,2025-10-24,Alshon C.,Daescu A.,Garnett C.,Loong T.,2,0
+2025 PPA Rate Vegas Open,Quarter Finals,2025-10-24,Johns B.,Tardio G.,Pham L.,MacKinnon W.,2,0
+2025 PPA Rate Vegas Open,Round 16,2025-10-23,Johns B.,Tardio G.,Hewett R.,Brown M.,2,0
+2025 PPA Rate Vegas Open,Round 16,2025-10-23,Johnson J.,Frazier D.,Navratil Z.,Ford Z.,2,0
+2025 PPA Rate Vegas Open,Round 16,2025-10-23,Alshon C.,Daescu A.,French B.,Stone W.,2,0
+2025 PPA Rate Vegas Open,Round 16,2025-10-23,Bar D.,Tellez P.,Garnett C.,Loong T.,0,2
+2025 PPA Rate Vegas Open,Round 16,2025-10-23,Oncins E.,Wright M.,Bellamy R.,Young D.,2,0
+2025 PPA Rate Vegas Open,Round 16,2025-10-23,Pham L.,M W.,Fu R.,McGuffin T.,2,1
+2025 PPA Rate Vegas Open,Round 16,2025-10-23,Newman R.,Khlif N.,Vich J.,Freeman M.,2,1
+2025 PPA Rate Vegas Open,Round 16,2025-10-23,Staksrud F.,Patriquin H.,Loyd M.,Ge A.,2,0
+2025 PPA Rate Vegas Open,Round 32,2025-10-22,Vich J.,Freeman M.,Koller A.,Benitez J.,2,1
+2025 PPA Rate Vegas Open,Round 32,2025-10-22,Newman R.,Khlif N.,Campbell C.,Harvey A.,2,0
+2025 PPA Rate Vegas Open,Round 32,2025-10-22,Oncins E.,Wright M.,Shimabukuro T.,Mercado A.,2,1
+2025 PPA Rate Vegas Open,Round 32,2025-10-22,Hovenier B.,Ignatowich J.,Bellamy R.,Young D.,1,2
+2025 PPA Rate Vegas Open,Round 32,2025-10-22,Garnett C.,Loong T.,Lenhard R.,Akin T.,2,1
+2025 PPA Rate Vegas Open,Round 32,2025-10-22,Fu R.,McGuffin T.,Ayon E.,Poland J.,2,0
+2025 PPA Rate Vegas Open,Round 32,2025-10-22,Arnold J.,Smith P.,French B.,Stone W.,1,2
+2025 PPA Rate Vegas Open,Round 32,2025-10-22,Johns B.,Tardio G.,Laura C.,Cincola J.,2,0
+2025 PPA Rate Vegas Open,Round 32,2025-10-22,Loyd M.,Ge A.,Jakovljevic I.,Smith S.,2,0
+2025 PPA Rate Vegas Open,Round 32,2025-10-22,Johnson J.,Frazier D.,Dow G.,Scarpa A.,2,0
+2025 PPA Rate Vegas Open,Round 32,2025-10-22,Bar D.,Tellez P.,Goldin G.,Taylor C.,2,0
+2025 PPA Rate Vegas Open,Round 32,2025-10-22,Navratil Z.,Ford Z.,Johnson H.,Johnson Y.,2,1
+2025 PPA Rate Vegas Open,Round 32,2025-10-22,Alshon C.,Daescu A.,Baca M.,Pailet E.,2,0
+2025 PPA Rate Vegas Open,Round 32,2025-10-22,Staksrud F.,Patriquin H.,Teoni P.,Protzek T.,2,0
+2025 PPA Rate Vegas Open,Round 32,2025-10-22,Hewett R.,Brown M.,Trinh T.,Young D.,2,0
+2025 PPA Rate Vegas Open,Round 64,2025-10-22,Sock J.,Roddy E.,Lenhard R.,Akin T.,1,2
+2025 PPA Rate Vegas Open,Round 64,2025-10-22,Campbell C.,Harvey A.,Shaffer W.,Jensen D.,2,1
+2025 PPA Rate Vegas Open,Round 64,2025-10-21,Bellamy R.,Young D.,Rodrigo V.,Morris J.,2,0
+2025 PPA Rate Vegas Open,Round 64,2025-10-22,Bhatia A.,Haworth C.,Shimabukuro T.,Mercado A.,0,2
+2025 PPA Rate Vegas Open,Round 64,2025-10-22,Johnson H.,Johnson Y.,Garcia C.,Fajardo E.,2,0
+2025 PPA Rate Vegas Open,Round 64,2025-10-22,Dow G.,Scarpa A.,Rahachou S.,Joseph G.,2,0
+2025 PPA Rate Vegas Open,Round 64,2025-10-22,Goldin G.,Taylor C.,Querrey S.,Burrows W.,2,1
+2025 PPA Rate Vegas Open,Round 64,2025-10-21,French B.,Stone W.,Hoover M.,Mawji A.,2,0
+2025 PPA Rate Vegas Open,Round 64,2025-10-21,Nsekpong B.,Bricker A.,Baca M.,Pailet E.,1,2
+2025 PPA Rate Vegas Open,Round 64,2025-10-21,Koller A.,Benitez J.,Wan A.,Tabatabaeian A.,2,0
+2025 PPA Rate Vegas Open,Round 64,2025-10-21,Jakovljevic I.,Smith S.,Ray P.,McCartney C.,2,0
+2025 PPA Rate Vegas Open,Round 64,2025-10-22,Teoni P.,Protzek T.,Johnson C.,Nemoff C.,2,1
+2025 PPA Rate Vegas Open,Round 64,2025-10-22,Blaszkewycz E.,Goldberg J.,Ayon E.,Poland J.,0,2
+2025 PPA Rate Vegas Open,Round 64,2025-10-21,Trinh T.,Young D.,Kappes K.,Drost Z.,2,0
+2025 PPA Rate Vegas Open,Round 64,2025-10-22,Laura C.,Cincola J.,Perez E.,Crum A.,2,0
+2025 PPA UPA Pickleball World Championships,Finals,2025-11-09,Staksrud F.,Patriquin H.,Klinger C.,Johnson J.,3,1
+2025 PPA UPA Pickleball World Championships,Bronze Medal Match,2025-11-09,Johns B.,Tardio G.,Alshon C.,Daescu A.,0,2
+2025 PPA UPA Pickleball World Championships,Semi-Finals,2025-11-09,Alshon C.,Daescu A.,Klinger C.,Johnson J.,0,2
+2025 PPA UPA Pickleball World Championships,Semi-Finals,2025-11-09,Johns B.,Tardio G.,Staksrud F.,Patriquin H.,0,2
+2025 PPA UPA Pickleball World Championships,Quarter Finals,2025-11-07,Klinger C.,Johnson J.,Frazier D.,Khlif N.,2,0
+2025 PPA UPA Pickleball World Championships,Quarter Finals,2025-11-07,Alshon C.,Daescu A.,Sock J.,Hovenier B.,2,0
+2025 PPA UPA Pickleball World Championships,Quarter Finals,2025-11-08,Staksrud F.,Patriquin H.,Oncins E.,Wright M.,2,0
+2025 PPA UPA Pickleball World Championships,Quarter Finals,2025-11-08,Johns B.,Tardio G.,Newman R.,Devilliers J.,2,1
+2025 PPA UPA Pickleball World Championships,Round 16,2025-11-06,Klinger C.,Johnson J.,Bellamy R.,Stone W.,2,1
+2025 PPA UPA Pickleball World Championships,Round 16,2025-11-06,Frazier D.,Khlif N.,Young D.,Tellez P.,2,0
+2025 PPA UPA Pickleball World Championships,Round 16,2025-11-06,Alshon C.,Daescu A.,Garcia C.,Blaszkewycz E.,2,0
+2025 PPA UPA Pickleball World Championships,Round 16,2025-11-06,Oncins E.,Wright M.,Braham A.,Crouch C.,2,0
+2025 PPA UPA Pickleball World Championships,Round 16,2025-11-06,Staksrud F.,Patriquin H.,Truong J.,Vich J.,2,0
+2025 PPA UPA Pickleball World Championships,Round 16,2025-11-07,Newman R.,Devilliers J.,Goldin G.,French B.,2,0
+2025 PPA UPA Pickleball World Championships,Round 16,2025-11-06,Johns B.,Tardio G.,Loyd M.,Emmrich M.,2,0
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-05,Staksrud F.,Patriquin H.,Alhouni M.,Lohani A.,2,0
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-05,Newman R.,Devilliers J.,Taylor C.,Laura C.,2,0
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-05,Hewett R.,Brown M.,Loyd M.,Emmrich M.,0,2
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-05,Young D.,Tellez P.,Dow G.,Scarpa A.,2,0
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-06,Garnett C.,Loong T.,Goldin G.,French B.,1,2
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-05,Alshon C.,Daescu A.,Delgado J.,Roddy E.,2,0
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-06,Frazier D.,Khlif N.,Shaffer W.,Teoni P.,2,0
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-05,Frank O.,Steiner E.,Bellamy R.,Stone W.,0,2
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-06,Klinger C.,Johnson J.,Bhatia A.,Haworth C.,2,0
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-06,Ignatowich J.,Ge A.,Sock J.,Hovenier B.,1,2
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-06,Johnson H.,McGuffin T.,Protzek T.,Goins J.,2,1
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-06,Young D.,Arnold J.,Garcia C.,Blaszkewycz E.,1,2
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-05,Bar D.,Koller A.,Braham A.,Crouch C.,1,2
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-06,Oncins E.,Wright M.,Johnson Y.,Alhouni M.,2,0
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-06,Truong J.,Vich J.,Fu R.,Freeman M.,2,0
+2025 PPA UPA Pickleball World Championships,Round 32,2025-11-05,Johns B.,Tardio G.,Rettenmaier T.,Jacobson B.,2,0
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Rettenmaier T.,Jacobson B.,Johnson C.,Nemoff C.,2,1
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Campbell C.,Harvey A.,Shaffer W.,Teoni P.,1,2
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Delgado J.,Roddy E.,Crum A.,Whittaker R.,2,1
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Alhouni M.,Lohani A.,Perez E.,Madonia S.,2,0
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Taylor C.,Laura C.,Querrey S.,Burrows W.,2,1
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-04,Dow G.,Scarpa A.,Kim E.,Wong H.,2,0
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-04,Bellamy R.,Stone W.,MacKinnon W.,Rodrigo V.,2,0
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Berryman B.,Anderson J.,Frank O.,Steiner E.,0,2
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Bhatia A.,Haworth C.,Deakin S.,Chaffin C.,2,0
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Sock J.,Hovenier B.,Shimabukuro T.,Rahachou S.,2,0
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Protzek T.,Goins J.,Alvarez J.,Benitez J.,2,1
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Young D.,Arnold J.,Dussault T.,Horricks E.,2,0
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Jakovljevic I.,Cincola J.,Braham A.,Crouch C.,0,2
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Johnson Y.,Alhouni M.,Joseph G.,Wasson L.,2,1
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Fu R.,Freeman M.,Mogle C.,Romano N.,2,1
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Truong J.,Vich J.,Gomez J.,Alhouni M.,2,0
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Goldin G.,French B.,Caldarella A.,Mercado A.,2,0
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Loyd M.,Emmrich M.,Black N.,Dagnall I.,2,0
+2025 PPA UPA Pickleball World Championships,Round 64,2025-11-05,Hewett R.,Brown M.,Rangelov G.,Grewal J.,2,0
+2025 PPA Veolia Lakeland Open,Finals,2025-11-23,Johns B.,Tardio G.,Alshon C.,Daescu A.,3,0
+2025 PPA Veolia Lakeland Open,Semi-Finals,2025-11-22,Alshon C.,Daescu A.,Klinger C.,Johnson J.,2,1
+2025 PPA Veolia Lakeland Open,Semi-Finals,2025-11-22,Johns B.,Tardio G.,McGuffin T.,Staksrud F.,2,0
+2025 PPA Veolia Lakeland Open,Quarter Finals,2025-11-21,Alshon C.,Daescu A.,Johnson H.,Ge A.,2,0
+2025 PPA Veolia Lakeland Open,Quarter Finals,2025-11-21,McGuffin T.,Staksrud F.,Young D.,Newman R.,2,0
+2025 PPA Veolia Lakeland Open,Quarter Finals,2025-11-21,Johns B.,Tardio G.,Oncins E.,Frazier D.,2,0
+2025 PPA Veolia Lakeland Open,Quarter Finals,2025-11-21,Klinger C.,Johnson J.,Tellez P.,Khlif N.,2,0
+2025 PPA Veolia Lakeland Open,Round 16,2025-11-21,Oncins E.,Frazier D.,Garnett C.,Loong T.,2,0
+2025 PPA Veolia Lakeland Open,Round 16,2025-11-21,Protzek T.,Goins J.,Young D.,Newman R.,0,2
+2025 PPA Veolia Lakeland Open,Round 16,2025-11-21,Johnson H.,Ge A.,Hewett R.,Stone W.,2,0
+2025 PPA Veolia Lakeland Open,Round 16,2025-11-21,Johns B.,Tardio G.,Truong J.,Delgado J.,2,0
+2025 PPA Veolia Lakeland Open,Round 16,2025-11-21,McGuffin T.,Staksrud F.,Fu R.,Shimabukuro T.,2,0
+2025 PPA Veolia Lakeland Open,Round 16,2025-11-21,Alshon C.,Daescu A.,Loyd M.,Emmrich M.,2,0
+2025 PPA Veolia Lakeland Open,Round 16,2025-11-21,Klinger C.,Johnson J.,Trinh T.,Alhouni M.,2,0
+2025 PPA Veolia Lakeland Open,Round 16,2025-11-21,Tellez P.,Khlif N.,Hovenier B.,Ignatowich J.,2,1
+2025 PPA Veolia Lakeland Open,Round 32,2025-11-21,Alshon C.,Daescu A.,Crouch C.,Alvarez J.,2,0
+2025 PPA Veolia Lakeland Open,Round 32,2025-11-21,Johnson H.,Ge A.,Haworth C.,Goldin G.,2,1
+2025 PPA Veolia Lakeland Open,Round 32,2025-11-21,Young D.,Newman R.,Taylor C.,Cincola J.,2,0
+2025 PPA Veolia Lakeland Open,Round 32,2025-11-21,Garnett C.,Loong T.,Rangelov G.,Gomez J.,2,0
+2025 PPA Veolia Lakeland Open,Round 32,2025-11-21,McGuffin T.,Staksrud F.,Teoni P.,Nemoff C.,2,0
+2025 PPA Veolia Lakeland Open,Round 32,2025-11-21,Young D.,Rettenmaier T.,Fu R.,Shimabukuro T.,0,2
+2025 PPA Veolia Lakeland Open,Round 32,2025-11-21,Hewett R.,Stone W.,Laura C.,Freeman M.,2,1
+2025 PPA Veolia Lakeland Open,Round 32,2025-11-21,Johns B.,Tardio G.,Benitez J.,Harvey A.,2,0
+2025 PPA Veolia Lakeland Open,Round 32,2025-11-21,Tellez P.,Khlif N.,Scarpa A.,Caldarella A.,2,0
+2025 PPA Veolia Lakeland Open,Round 32,2025-11-21,Oncins E.,Frazier D.,Varon J.,Khalid U.,2,0
+2025 PPA Veolia Lakeland Open,Round 32,2025-11-21,Klinger C.,Johnson J.,Mack L.,Braham A.,2,0
+2025 PPA Veolia Lakeland Open,Round 32,2025-11-21,Koller A.,French B.,Loyd M.,Emmrich M.,1,2
+2025 PPA Veolia Lakeland Open,Round 32,2025-11-21,Hovenier B.,Ignatowich J.,Campbell C.,Dow G.,2,0
+2025 PPA Veolia Lakeland Open,Round 32,2025-11-21,Truong J.,Delgado J.,Johnson Y.,Bellamy R.,2,0
+2025 PPA Veolia Lakeland Open,Round 64,2025-11-21,Ford Z.,Crum A.,Varon J.,Khalid U.,0,2
+2025 PPA Veolia Lakeland Open,Round 64,2025-11-21,Campbell C.,Dow G.,Edwards J.,Edwards C.,2,1
+2025 PPA Veolia Lakeland Open,Round 64,2025-11-21,Scarpa A.,Caldarella A.,Gonnering Z.,Berryman B.,2,0
+2025 PPA Veolia Lakeland Open,Round 64,2025-11-21,Fu R.,Shimabukuro T.,Nilsson J.,Shaw M.,2,0
+2025 PPA Veolia Lakeland Open,Round 64,2025-11-21,Teoni P.,Nemoff C.,Aiken J.,Betita A.,2,0
+2025 PPA Veolia Lakeland Open,Round 64,2025-11-21,Taylor C.,Cincola J.,Scarp A.,Dugas R.,2,0
+2025 PPA Veolia Lakeland Open,Round 64,2025-11-21,Deakin S.,Jakovljevic I.,Rangelov G.,Gomez J.,1,2
+2025 PPA Veolia Lakeland Open,Round 64,2025-11-21,Mack L.,Braham A.,Rahachou S.,Perez E.,2,0
+2025 PPA Veolia Lakeland Open,Round 64,2025-11-21,Benitez J.,Harvey A.,Whittaker R.,Chaffin C.,2,0
+2025 PPA Veolia Lakeland Open,Round 64,2025-11-21,Laura C.,Freeman M.,Wade N.,Powell F.,2,1
+2025 PPA Veolia Lakeland Open,Round 64,2025-11-21,Protzek T.,Goins J.,Lohani A.,Neumann A.,2,0
+2025 PPA Veolia Lakeland Open,Round 64,2025-11-21,Trinh T.,Alhouni M.,Citarelli L.,Morales R.,2,0
+2025 PPA Veolia Lakeland Open,Round 64,2025-11-21,Haworth C.,Goldin G.,Dussault T.,Horricks E.,2,0
+2025 PPA Veolia Lakeland Open,Round 64,2025-11-21,Madonia S.,Roddy E.,Crouch C.,Alvarez J.,1,2
+2025 PPA Daytona Beach Open,Finals,2025-12-21,Newman R.,Khlif N.,Johnson J.,Ge A.,2,3
+2025 PPA Daytona Beach Open,Semi-Finals,2025-12-21,Newman R.,Khlif N.,Klinger C.,Vich J.,2,0
+2025 PPA Daytona Beach Open,Semi-Finals,2025-12-20,Oncins E.,Frazier D.,Johnson J.,Ge A.,0,2
+2025 PPA Daytona Beach Open,Quarter Finals,2025-12-19,Klinger C.,Vich J.,Koller A.,Garnett C.,2,1
+2025 PPA Daytona Beach Open,Quarter Finals,2025-12-19,Alshon C.,Staksrud F.,Oncins E.,Frazier D.,1,2
+2025 PPA Daytona Beach Open,Quarter Finals,2025-12-19,Johnson J.,Ge A.,Protzek T.,Devilliers J.,2,0
+2025 PPA Daytona Beach Open,Quarter Finals,2025-12-19,Tardio G.,Daescu A.,Newman R.,Khlif N.,1,2
+2025 PPA Daytona Beach Open,Round 16,2025-12-19,Oncins E.,Frazier D.,Stone W.,Young D.,2,1
+2025 PPA Daytona Beach Open,Round 16,2025-12-19,Klinger C.,Vich J.,Loyd M.,Emmrich M.,2,0
+2025 PPA Daytona Beach Open,Round 16,2025-12-19,Newman R.,Khlif N.,French B.,Arnold J.,2,0
+2025 PPA Daytona Beach Open,Round 16,2025-12-19,Tardio G.,Daescu A.,Trinh T.,Truong J.,2,0
+2025 PPA Daytona Beach Open,Round 16,2025-12-19,Protzek T.,Devilliers J.,Ford Z.,Goins J.,2,0
+2025 PPA Daytona Beach Open,Round 16,2025-12-19,Alshon C.,Staksrud F.,Campbell C.,Harvey A.,2,0
+2025 PPA Daytona Beach Open,Round 16,2025-12-19,Bar D.,Tellez P.,Koller A.,Garnett C.,0,2
+2025 PPA Daytona Beach Open,Round 16,2025-12-19,Johnson J.,Ge A.,Taylor C.,Cincola J.,2,0
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,Alshon C.,Staksrud F.,Lenhard R.,Akin T.,2,0
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,Hewett R.,Brown M.,Ford Z.,Goins J.,0,2
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,Protzek T.,Devilliers J.,Mack L.,Varon J.,2,0
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,Johnson J.,Ge A.,Blaszkewycz E.,Laura C.,2,0
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,French B.,Arnold J.,Wasson L.,Perez E.,2,0
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,Newman R.,Khlif N.,Parks Z.,Aninon R.,2,1
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,Loyd M.,Emmrich M.,Braham A.,Crouch C.,2,0
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,Lieberman W.,Silvio M.,Taylor C.,Cincola J.,0,2
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,Trinh T.,Truong J.,Alhouni M.,Teoni P.,2,0
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,Stone W.,Young D.,Haworth C.,Goldin G.,2,1
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,Bar D.,Tellez P.,Shimabukuro T.,Mercado A.,2,0
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,Klinger C.,Vich J.,Berryman B.,Rangelov G.,2,0
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,Benitez J.,Rettenmaier T.,Campbell C.,Harvey A.,1,2
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,Oncins E.,Frazier D.,Scarpa A.,Chaffin C.,2,0
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,Koller A.,Garnett C.,Dow G.,Delgado J.,2,0
+2025 PPA Daytona Beach Open,Round 32,2025-12-19,Tardio G.,Daescu A.,Growcott M.,Jammal C.,2,0
+2025 PPA Daytona Beach Open,Round 64,2025-12-19,Haworth C.,Goldin G.,Goldberg J.,Acevedo N.,2,1
+2025 PPA Daytona Beach Open,Round 64,2025-12-19,Pham L.,Shaffer W.,Parks Z.,Aninon R.,1,2
+2025 PPA Daytona Beach Open,Round 64,2025-12-19,Wasson L.,Perez E.,Preissler S.,Laville L.,2,1
+2025 PPA Daytona Beach Open,Round 64,2025-12-19,Shimabukuro T.,Mercado A.,Dussault T.,Horricks E.,2,0
+2025 PPA Daytona Beach Open,Round 64,2025-12-19,Mogle C.,Romano N.,Blaszkewycz E.,Laura C.,1,2
+2025 PPA Daytona Beach Open,Round 64,2025-12-19,Beasley N.,Martinez J.,Mack L.,Varon J.,0,2
+2025 PPA Daytona Beach Open,Round 64,2025-12-19,Jacobson B.,Rahachou S.,Growcott M.,Jammal C.,0,2
+2025 PPA Daytona Beach Open,Round 64,2025-12-19,Alhouni M.,Caldarella A.,Lenhard R.,Akin T.,0,2
+2025 PPA Daytona Beach Open,Round 64,2025-12-19,Scarpa A.,Chaffin C.,Dickson E.,Chrysostom J.,2,1
+2026 PPA The Masters,Finals,2026-01-18,Johns B.,Tardio G.,Alshon C.,Patriquin H.,3,0
+2026 PPA The Masters,Bronze Medal Match,2026-01-18,Klinger C.,Johnson J.,Staksrud F.,Daescu A.,2,0
+2026 PPA The Masters,Semi-Finals,2026-01-18,Staksrud F.,Daescu A.,Alshon C.,Patriquin H.,0,2
+2026 PPA The Masters,Semi-Finals,2026-01-18,Johns B.,Tardio G.,Klinger C.,Johnson J.,2,0
+2026 PPA The Masters,Quarter Finals,2026-01-17,Klinger C.,Johnson J.,Sock J.,Tellez P.,2,1
+2026 PPA The Masters,Quarter Finals,2026-01-17,Staksrud F.,Daescu A.,Devilliers J.,Bar D.,2,0
+2026 PPA The Masters,Quarter Finals,2026-01-17,Alshon C.,Patriquin H.,Freeman M.,McGuffin T.,2,0
+2026 PPA The Masters,Quarter Finals,2026-01-17,Johns B.,Tardio G.,Oncins E.,Frazier D.,2,0
+2026 PPA The Masters,Round 16,2026-01-16,Johns B.,Tardio G.,Navratil Z.,Hovenier B.,2,0
+2026 PPA The Masters,Round 16,2026-01-16,Oncins E.,Frazier D.,Funemizu Y.,Bhatia A.,2,1
+2026 PPA The Masters,Round 16,2026-01-16,Alshon C.,Patriquin H.,Johnson H.,Stone W.,2,0
+2026 PPA The Masters,Round 16,2026-01-16,Devilliers J.,Bar D.,Hewett R.,Johns C.,2,0
+2026 PPA The Masters,Round 16,2026-01-16,Staksrud F.,Daescu A.,Arnold J.,Smith P.,2,1
+2026 PPA The Masters,Round 16,2026-01-16,Klinger C.,Johnson J.,Howells W.,Khlif N.,2,0
+2026 PPA The Masters,Round 16,2026-01-16,Vich J.,Wright M.,Sock J.,Tellez P.,1,2
+2026 PPA The Masters,Round 16,2026-01-16,Freeman M.,McGuffin T.,Ge A.,Garnett C.,2,0
+2026 PPA The Masters,Round 32,2026-01-15,Johnson H.,Stone W.,Lenhard R.,Akin T.,2,1
+2026 PPA The Masters,Round 32,2026-01-15,Howells W.,Khlif N.,Protzek T.,Emmrich M.,2,0
+2026 PPA The Masters,Round 32,2026-01-14,Sock J.,Tellez P.,Bellamy R.,Young D.,2,0
+2026 PPA The Masters,Round 32,2026-01-14,Klinger C.,Johnson J.,Ford Z.,Goins J.,2,0
+2026 PPA The Masters,Round 32,2026-01-15,Freeman M.,McGuffin T.,Whittaker R.,Jakovljevic I.,2,0
+2026 PPA The Masters,Round 32,2026-01-15,Navratil Z.,Hovenier B.,Ayon E.,Poland J.,2,1
+2026 PPA The Masters,Round 32,2026-01-14,Loong T.,French B.,Arnold J.,Smith P.,1,2
+2026 PPA The Masters,Round 32,2026-01-15,Ge A.,Garnett C.,Mogle C.,Madonia S.,2,0
+2026 PPA The Masters,Round 32,2026-01-15,Hewett R.,Johns C.,Koller A.,Truong J.,2,1
+2026 PPA The Masters,Round 32,2026-01-15,Newman R.,MacKinnon W.,Funemizu Y.,Bhatia A.,0,2
+2026 PPA The Masters,Round 32,2026-01-15,Devilliers J.,Bar D.,Rettenmaier T.,Jacobson B.,2,1
+2026 PPA The Masters,Round 32,2026-01-14,Alshon C.,Patriquin H.,Dow G.,Scarpa A.,2,0
+2026 PPA The Masters,Round 32,2026-01-15,Staksrud F.,Daescu A.,Pham L.,Teoni P.,2,0
+2026 PPA The Masters,Round 32,2026-01-15,Vich J.,Wright M.,Haworth C.,Goldin G.,2,0
+2026 PPA The Masters,Round 32,2026-01-15,Oncins E.,Frazier D.,Braham A.,Crouch C.,2,0
+2026 PPA The Masters,Round 32,2026-01-14,Johns B.,Tardio G.,Trinh T.,Benitez J.,2,0
+2026 PPA The Masters,Round 64,2026-01-14,Trinh T.,Benitez J.,Burrows W.,Nemoff C.,2,0
+2026 PPA The Masters,Round 64,2026-01-14,Delgado J.,Roddy E.,Lenhard R.,Akin T.,0,2
+2026 PPA The Masters,Round 64,2026-01-14,Johnson Y.,Brown M.,Ayon E.,Poland J.,0,2
+2026 PPA The Masters,Round 64,2026-01-14,Protzek T.,Emmrich M.,Tamaki K.,Garcia C.,2,0
+2026 PPA The Masters,Round 64,2026-01-14,Funemizu Y.,Bhatia A.,Rahachou S.,Joseph G.,2,0
+2026 PPA The Masters,Round 64,2026-01-14,Young D.,Loyd M.,Mogle C.,Madonia S.,1,2
+2026 PPA The Masters,Round 64,2026-01-14,Howells W.,Khlif N.,Balakrishnan I.,Yoo J.,2,0
+2026 PPA The Masters,Round 64,2026-01-14,Arnold J.,Smith P.,Pailet E.,Grollman J.,2,0
+2026 PPA The Masters,Round 64,2026-01-14,Johnson C.,Wasson L.,Pham L.,Teoni P.,0,2
+2026 PPA The Masters,Round 64,2026-01-14,Braham A.,Crouch C.,Caldarella A.,Cincola J.,2,0
+2026 PPA The Masters,Round 64,2026-01-14,Alhouni M.,Alhouni M.,Whittaker R.,Jakovljevic I.,1,2
+2026 PPA The Masters,Round 64,2026-01-14,Campbell C.,Harvey A.,Haworth C.,Goldin G.,1,2
+2026 PPA The Masters,Round 64,2026-01-14,Loong T.,French B.,Sahid J.,McCartney C.,2,0
+2026 PPA The Masters,Round 64,2026-01-14,Dow G.,Scarpa A.,Shimabukuro T.,Mercado A.,2,1
+2026 PPA The Masters,Round 64,2026-01-14,Koller A.,Truong J.,Shaffer W.,Morris J.,2,1
+2026 PPA The Masters,Round 64,2026-01-14,Johnson H.,Stone W.,Lam J.,Howard J.,2,0
+2026 PPA The Masters,Round 64,2026-01-14,Rettenmaier T.,Jacobson B.,Perez E.,Bricker A.,2,1
+2026 PPA The Masters,Round 64,2026-01-14,Ford Z.,Goins J.,Phillips D.,Taylor C.,2,0
+2026 PPA The Masters,Round 64,2026-01-14,Navratil Z.,Hovenier B.,Burkhardt M.,Rodrigo V.,2,0
+2026 PPA Lakeville Indoor National Championships,Finals,2026-01-25,Tardio G.,Daescu A.,Alshon C.,Patriquin H.,3,2
+2026 PPA Lakeville Indoor National Championships,Bronze Medal Match,2026-01-25,Klinger C.,Staksrud F.,Oncins E.,Frazier D.,1,2
+2026 PPA Lakeville Indoor National Championships,Semi-Finals,2026-01-25,Alshon C.,Patriquin H.,Oncins E.,Frazier D.,2,0
+2026 PPA Lakeville Indoor National Championships,Semi-Finals,2026-01-25,Tardio G.,Daescu A.,Klinger C.,Staksrud F.,2,1
+2026 PPA Lakeville Indoor National Championships,Quarter Finals,2026-01-23,Klinger C.,Staksrud F.,Freeman M.,McGuffin T.,2,1
+2026 PPA Lakeville Indoor National Championships,Quarter Finals,2026-01-24,Oncins E.,Frazier D.,Ge A.,Garnett C.,2,0
+2026 PPA Lakeville Indoor National Championships,Quarter Finals,2026-01-24,Alshon C.,Patriquin H.,Bar D.,Stone W.,2,0
+2026 PPA Lakeville Indoor National Championships,Quarter Finals,2026-01-24,Tardio G.,Daescu A.,Devilliers J.,Tellez P.,2,1
+2026 PPA Lakeville Indoor National Championships,Round 16,2026-01-22,Tardio G.,Daescu A.,Johnson H.,Hovenier B.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 16,2026-01-22,Klinger C.,Staksrud F.,Navratil Z.,Laura C.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 16,2026-01-22,Devilliers J.,Tellez P.,Newman R.,MacKinnon W.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 16,2026-01-22,Alshon C.,Patriquin H.,Goldin G.,Bhatia A.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 16,2026-01-22,Oncins E.,Frazier D.,Bellamy R.,Young D.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 16,2026-01-22,Vich J.,Wright M.,Bar D.,Stone W.,1,2
+2026 PPA Lakeville Indoor National Championships,Round 16,2026-01-22,Ge A.,Garnett C.,Dow G.,Delgado J.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 32,2026-01-21,Johnson H.,Hovenier B.,Koller A.,Funemizu Y.,2,1
+2026 PPA Lakeville Indoor National Championships,Round 32,2026-01-22,Hewett R.,Johns C.,Dow G.,Delgado J.,1,2
+2026 PPA Lakeville Indoor National Championships,Round 32,2026-01-21,Devilliers J.,Tellez P.,Lohani A.,Nemoff C.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 32,2026-01-21,Tardio G.,Daescu A.,Braham A.,Alhouni M.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 32,2026-01-21,Ge A.,Garnett C.,Radermacher M.,Cassens J.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 32,2026-01-21,Vich J.,Wright M.,Campbell C.,Harvey A.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 32,2026-01-22,Newman R.,MacKinnon W.,Goins J.,Alhouni M.,2,1
+2026 PPA Lakeville Indoor National Championships,Round 32,2026-01-21,Oncins E.,Frazier D.,Steiner E.,Powell F.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 32,2026-01-21,Klinger C.,Staksrud F.,Jakovljevic I.,Scarpa A.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 32,2026-01-21,Alshon C.,Patriquin H.,Chaffin C.,Haworth C.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 32,2026-01-22,Bellamy R.,Young D.,Young D.,Loyd M.,2,1
+2026 PPA Lakeville Indoor National Championships,Round 32,2026-01-21,Navratil Z.,Laura C.,Protzek T.,Johnson Y.,2,1
+2026 PPA Lakeville Indoor National Championships,Round 32,2026-01-21,Bar D.,Stone W.,Taylor C.,Smith P.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 32,2026-01-21,Freeman M.,McGuffin T.,Pham L.,Shimabukuro T.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 32,2026-01-21,Loong T.,French B.,Arnold J.,Emmrich M.,1,2
+2026 PPA Lakeville Indoor National Championships,Round 64,2026-01-20,Braham A.,Alhouni M.,Joseph G.,Mogle C.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 64,2026-01-20,Jakovljevic I.,Scarpa A.,Gomez J.,Alhouni M.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 64,2026-01-20,Lohani A.,Nemoff C.,La Bat T.,Dutrieuille D.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 64,2026-01-20,Campbell C.,Harvey A.,Fajardo E.,Nguyen B.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 64,2026-01-20,Pham L.,Shimabukuro T.,Kim D.,Miron D.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 64,2026-01-20,Morris J.,Teoni P.,Radermacher M.,Cassens J.,1,2
+2026 PPA Lakeville Indoor National Championships,Round 64,2026-01-20,Taylor C.,Smith P.,Vizconde Sopanarat J.,Iii F.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 64,2026-01-20,Goins J.,Alhouni M.,Schaadt J.,Ganesh K.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 64,2026-01-20,Chaffin C.,Haworth C.,Dussault T.,Horricks E.,2,0
+2026 PPA Lakeville Indoor National Championships,Round 64,2026-01-20,Whittaker R.,Perez E.,Steiner E.,Powell F.,1,2
+2026 PPA Cape Coral Open,Finals,2026-02-15,Johns B.,Tardio G.,Klinger C.,Johnson J.,3,0
+2026 PPA Cape Coral Open,Bronze Medal Match,2026-02-15,Staksrud F.,Daescu A.,Alshon C.,Patriquin H.,0,2
+2026 PPA Cape Coral Open,Semi-Finals,2026-02-15,Alshon C.,Patriquin H.,Klinger C.,Johnson J.,0,2
+2026 PPA Cape Coral Open,Semi-Finals,2026-02-14,Johns B.,Tardio G.,Staksrud F.,Daescu A.,2,0
+2026 PPA Cape Coral Open,Quarter Finals,2026-02-13,Staksrud F.,Daescu A.,Ge A.,Garnett C.,2,0
+2026 PPA Cape Coral Open,Quarter Finals,2026-02-13,Klinger C.,Johnson J.,Tellez P.,Khlif N.,2,0
+2026 PPA Cape Coral Open,Quarter Finals,2026-02-13,Johns B.,Tardio G.,Shimabukuro T.,Funemizu Y.,2,0
+2026 PPA Cape Coral Open,Quarter Finals,2026-02-13,Alshon C.,Patriquin H.,Oncins E.,Frazier D.,2,0
+2026 PPA Cape Coral Open,Round 16,2026-02-12,Alshon C.,Patriquin H.,Hewett R.,Goins J.,2,0
+2026 PPA Cape Coral Open,Round 16,2026-02-12,Staksrud F.,Daescu A.,Bellamy R.,Johnson H.,2,0
+2026 PPA Cape Coral Open,Round 16,2026-02-12,Oncins E.,Frazier D.,Newman R.,MacKinnon W.,2,0
+2026 PPA Cape Coral Open,Round 16,2026-02-12,Klinger C.,Johnson J.,Loong T.,Protzek T.,2,0
+2026 PPA Cape Coral Open,Round 16,2026-02-12,Tellez P.,Khlif N.,Hovenier B.,Young D.,2,1
+2026 PPA Cape Coral Open,Round 16,2026-02-12,Devilliers J.,Bar D.,Ge A.,Garnett C.,1,2
+2026 PPA Cape Coral Open,Round 16,2026-02-12,Shimabukuro T.,Funemizu Y.,Johns C.,Vich J.,2,1
+2026 PPA Cape Coral Open,Round 16,2026-02-12,Johns B.,Tardio G.,Stone W.,Truong J.,2,0
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Loong T.,Protzek T.,Dow G.,Scarpa A.,2,1
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Devilliers J.,Bar D.,Whittaker R.,Jakovljevic I.,2,0
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Navratil Z.,Young D.,Hewett R.,Goins J.,1,2
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Freeman M.,McGuffin T.,Shimabukuro T.,Funemizu Y.,1,2
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Tellez P.,Khlif N.,Teoni P.,Mogle C.,2,1
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Johns B.,Tardio G.,Campbell C.,Harvey A.,2,0
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Johns C.,Vich J.,Arnold J.,Emmrich M.,2,1
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Staksrud F.,Daescu A.,Alhouni M.,Chaffin C.,2,0
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Hovenier B.,Young D.,Ford Z.,Benitez J.,2,1
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Alshon C.,Patriquin H.,Mack L.,Braham A.,2,0
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Newman R.,MacKinnon W.,Steiner E.,Powell F.,2,1
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Klinger C.,Johnson J.,Jagtiani S.,Serra O.,2,1
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Stone W.,Truong J.,Rettenmaier T.,French B.,2,0
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Bellamy R.,Johnson H.,Delgado J.,Loyd M.,2,1
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Ge A.,Garnett C.,Bhatia A.,Bricker A.,2,1
+2026 PPA Cape Coral Open,Round 32,2026-02-11,Oncins E.,Frazier D.,Brown M.,Mercado A.,2,0
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Teoni P.,Mogle C.,Crouch C.,Lenhard R.,2,0
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Delgado J.,Loyd M.,Parks Z.,Aninon R.,2,0
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Hewett R.,Goins J.,LaMacchio A.,Waddell N.,2,1
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Bhatia A.,Bricker A.,Fajardo E.,Anderson J.,2,0
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Arnold J.,Emmrich M.,Miron D.,Berryman B.,2,0
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Shimabukuro T.,Funemizu Y.,Pascoe L.,Pham L.,2,0
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Campbell C.,Harvey A.,Lohani A.,Nemoff C.,2,0
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Rettenmaier T.,French B.,Evgamukov A.,Geminiani D.,2,0
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Laura C.,Cincola J.,Jagtiani S.,Serra O.,1,2
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Taylor C.,Smith P.,Steiner E.,Powell F.,1,2
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Mack L.,Braham A.,Johnson Y.,Morris J.,2,0
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Ohrel B.,Bakalinsky E.,Whittaker R.,Jakovljevic I.,0,2
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Brown M.,Mercado A.,Rahachou S.,Rangelov G.,2,0
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Alhouni M.,Chaffin C.,Perez E.,Joseph G.,2,0
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Dow G.,Scarpa A.,Peterson G.,Martinez J.,2,0
+2026 PPA Cape Coral Open,Round 64,2026-02-10,Ford Z.,Benitez J.,Hamaguchi K.,Varon J.,2,0
+2026 PPA Carvana Mesa Cup,Finals,2026-02-22,Johns B.,Tardio G.,Alshon C.,Patriquin H.,3,1
+2026 PPA Carvana Mesa Cup,Semi-Finals,2026-02-21,Alshon C.,Patriquin H.,Klinger C.,Johnson J.,2,0
+2026 PPA Carvana Mesa Cup,Semi-Finals,2026-02-21,Johns B.,Tardio G.,Staksrud F.,Daescu A.,2,0
+2026 PPA Carvana Mesa Cup,Quarter Finals,2026-02-20,Staksrud F.,Daescu A.,Oncins E.,Frazier D.,2,1
+2026 PPA Carvana Mesa Cup,Quarter Finals,2026-02-20,Johns B.,Tardio G.,Ge A.,Garnett C.,2,0
+2026 PPA Carvana Mesa Cup,Quarter Finals,2026-02-20,Klinger C.,Johnson J.,Khlif N.,Hewett R.,2,0
+2026 PPA Carvana Mesa Cup,Quarter Finals,2026-02-20,Alshon C.,Patriquin H.,Arnold J.,Emmrich M.,2,0
+2026 PPA Carvana Mesa Cup,Round 16,2026-02-19,Oncins E.,Frazier D.,Ford Z.,Benitez J.,2,0
+2026 PPA Carvana Mesa Cup,Round 16,2026-02-19,Alshon C.,Patriquin H.,Bhatia A.,Young D.,2,0
+2026 PPA Carvana Mesa Cup,Round 16,2026-02-19,Vich J.,Wright M.,Ge A.,Garnett C.,0,2
+2026 PPA Carvana Mesa Cup,Round 16,2026-02-19,Freeman M.,McGuffin T.,Khlif N.,Hewett R.,1,2
+2026 PPA Carvana Mesa Cup,Round 16,2026-02-19,Devilliers J.,Bar D.,Arnold J.,Emmrich M.,1,2
+2026 PPA Carvana Mesa Cup,Round 16,2026-02-19,Staksrud F.,Daescu A.,Johnson H.,Johns C.,2,1
+2026 PPA Carvana Mesa Cup,Round 16,2026-02-19,Johns B.,Tardio G.,Stone W.,Truong J.,2,0
+2026 PPA Carvana Mesa Cup,Round 16,2026-02-19,Klinger C.,Johnson J.,Blaszkewycz E.,Yang L.,2,0
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Ge A.,Garnett C.,Protzek T.,Smith P.,2,0
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Johns B.,Tardio G.,Goins J.,Alhouni M.,2,0
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Johnson H.,Johns C.,Braham A.,Johnson Y.,2,0
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Vich J.,Wright M.,Joseph G.,Burrows W.,2,0
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Oncins E.,Frazier D.,Alhouni M.,Chaffin C.,2,1
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Sock J.,Tellez P.,Arnold J.,Emmrich M.,0,2
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Alshon C.,Patriquin H.,Teoni P.,Lenhard R.,2,0
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Loong T.,Hovenier B.,Blaszkewycz E.,Yang L.,0,2
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Staksrud F.,Daescu A.,Whittaker R.,Jakovljevic I.,2,0
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Klinger C.,Johnson J.,Pham L.,Shimabukuro T.,2,0
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Stone W.,Truong J.,French B.,Bellamy R.,2,1
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Khlif N.,Hewett R.,Koller A.,Funemizu Y.,2,1
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Bhatia A.,Young D.,Dow G.,Scarpa A.,2,1
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Devilliers J.,Bar D.,Lohani A.,Nemoff C.,2,0
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Freeman M.,McGuffin T.,Campbell C.,Harvey A.,2,0
+2026 PPA Carvana Mesa Cup,Round 32,2026-02-18,Barlow M.,Luhring C.,Ford Z.,Benitez J.,0,2
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Goins J.,Alhouni M.,Wasson L.,Perez E.,2,0
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Stone W.,Truong J.,Inn R.,Shekar K.,2,0
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Arnold J.,Emmrich M.,Rahachou S.,Rangelov G.,2,1
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Brown M.,Crouch C.,Whittaker R.,Jakovljevic I.,0,2
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Young D.,Jacobson B.,Teoni P.,Lenhard R.,1,2
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Ford Z.,Benitez J.,Mogle C.,Caldarella A.,2,1
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Bolkowy J.,Weeks C.,Blaszkewycz E.,Yang L.,0,2
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Taylor C.,Cincola J.,Pham L.,Shimabukuro T.,0,2
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Newman R.,MacKinnon W.,Barlow M.,Luhring C.,0,2
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Johnson H.,Johns C.,Nguyen B.,Kappes K.,2,0
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Roddy E.,Trinh T.,Joseph G.,Burrows W.,0,2
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Dow G.,Scarpa A.,Ayon E.,Poland J.,2,1
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Alhouni M.,Chaffin C.,Pascoe L.,Johnson C.,2,1
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Koller A.,Funemizu Y.,Mercado A.,Bhatia A.,2,0
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Protzek T.,Smith P.,Madsen J.,Dagnall I.,2,0
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Khlif N.,Hewett R.,Schupp E.,Koszuta K.,2,0
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,French B.,Bellamy R.,Angelo S.,Newcombe R.,2,0
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Braham A.,Johnson Y.,Shaffer W.,Morris J.,2,0
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Bhatia A.,Young D.,Lee S.,Rodrigo V.,2,0
+2026 PPA Carvana Mesa Cup,Round 64,2026-02-17,Loong T.,Hovenier B.,Gomez J.,Alhouni M.,2,0

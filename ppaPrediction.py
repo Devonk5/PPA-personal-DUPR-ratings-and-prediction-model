@@ -5,9 +5,9 @@ import difflib
 
 # ====== CONFIG ======
 DIVISIONS = {
-    '1': {'name': "Men's Doubles",   'match_csv': 'mens_matches.csv',   'elo_csv': 'mens_elo.csv',   'pair_csv': 'mens_pair_elo.csv',   'bet_csv': 'mens_bets.csv'},
-    '2': {'name': "Women's Doubles", 'match_csv': 'womens_matches.csv', 'elo_csv': 'womens_elo.csv', 'pair_csv': 'womens_pair_elo.csv', 'bet_csv': 'womens_bets.csv'},
-    '3': {'name': "Mixed Doubles",   'match_csv': 'mixed_matches.csv',  'elo_csv': 'mixed_elo.csv',  'pair_csv': 'mixed_pair_elo.csv',  'bet_csv': 'mixed_bets.csv'},
+    '1': {'name': "Men's Doubles",   'match_csv': 'mens_matches.csv',   'elo_csv': 'mens_elo.csv',   'pair_csv': 'mens_pair_elo.csv',   'bet_csv': 'mens_bets.csv',   'scale': 0.075},
+    '2': {'name': "Women's Doubles", 'match_csv': 'womens_matches.csv', 'elo_csv': 'womens_elo.csv', 'pair_csv': 'womens_pair_elo.csv', 'bet_csv': 'womens_bets.csv', 'scale': 0.075},
+    '3': {'name': "Mixed Doubles",   'match_csv': 'mixed_matches.csv',  'elo_csv': 'mixed_elo.csv',  'pair_csv': 'mixed_pair_elo.csv',  'bet_csv': 'mixed_bets.csv',  'scale': 0.15},
 }
 
 INITIAL_ELO = 6
@@ -193,7 +193,7 @@ def save_pair_elo(csv_file):
             'matches_together': pair_matches.get((p1, p2), 0)
         })
     df = pd.DataFrame(rows)
-    df = df.sort_values(by='matches_together', ascending=False)
+    df = df.sort_values(by='pair_elo', ascending=False)
     df.to_csv(csv_file, index=False)
     print(f'Saved pair Elo ratings to {csv_file}')
 
@@ -233,7 +233,7 @@ def predict(team1_players, team2_players, scale=0.15):
     prob_team1_win = prob_team1_win * (1 - uncertainty) + 0.5 * uncertainty
     return prob_team1_win
 
-def tournament_accuracy(match_csv, scale=0.375):
+def tournament_accuracy(match_csv, scale=0.15):
     df = pd.read_csv(match_csv)
     df = df.sort_values(by="date").reset_index(drop=True)
     tournaments = df['tournament'].unique()
@@ -413,6 +413,65 @@ def settle_bet(csv_file):
     df.to_csv(csv_file, index=False)
     print(f'Bet settled: {result} | P&L: ${pnl}')
 
+# ====== SCALE SWEEP ======
+def scale_sweep(match_csv):
+    """Test multiple scale values and report accuracy + log loss for each."""
+    scales = [0.025, 0.05, 0.075, 0.1, 0.125, 0.15, 0.175, 0.2]
+    df_info = pd.read_csv(match_csv)
+    total_matches = len(df_info)
+    total_tournaments = len(df_info['tournament'].unique())
+    print(f"\nDivision data: {total_matches} matches | {total_tournaments} tournaments")
+    global player_elo, recent_elo, matches_played, tournaments_seen, pair_elo, pair_matches
+
+    df = pd.read_csv(match_csv)
+    df = df.sort_values(by="date").reset_index(drop=True)
+    tournaments = df['tournament'].unique()
+    WARMUP = 11
+
+    print("\n{:<8} {:<12} {:<12}".format("Scale", "Accuracy", "Log Loss"))
+    print("-" * 34)
+
+    best_acc = (0, None)
+    best_ll = (float('inf'), None)
+
+    for scale in scales:
+        player_elo = {}
+        recent_elo = {}
+        matches_played = {}
+        tournaments_seen = set()
+        pair_elo.clear()
+        pair_matches.clear()
+
+        cum_correct = cum_total = 0
+        cum_log_loss = 0.0
+
+        for t_idx, t in enumerate(tournaments):
+            t_matches = df[df['tournament'] == t]
+            is_warmup = t_idx < WARMUP
+            for _, row in t_matches.iterrows():
+                team1 = [row['team1_player1'], row['team1_player2']]
+                team2 = [row['team2_player1'], row['team2_player2']]
+                prob = predict(team1, team2, scale)
+                actual = 1 if row['team1_sets'] > row['team2_sets'] else 0
+                if not is_warmup:
+                    if (1 if prob > 0.5 else 0) == actual:
+                        cum_correct += 1
+                    cum_log_loss += -(actual * math.log(prob + 1e-9) + (1 - actual) * math.log(1 - prob + 1e-9))
+                    cum_total += 1
+                update_elo(team1, team2, row['team1_sets'], row['team2_sets'], scale=scale)
+
+        acc = cum_correct / cum_total if cum_total > 0 else 0
+        ll = cum_log_loss / cum_total if cum_total > 0 else 0
+        print(f"{scale:<8} {acc:.4f}      {ll:.4f}")
+
+        if acc > best_acc[0]:
+            best_acc = (acc, scale)
+        if ll < best_ll[0]:
+            best_ll = (ll, scale)
+
+    print(f"\n=== Best Accuracy:  scale={best_acc[1]} ({best_acc[0]:.4f}) ===")
+    print(f"=== Best Log Loss:  scale={best_ll[1]} ({best_ll[0]:.4f}) ===")
+
 # ====== MAIN ======
 if __name__ == '__main__':
     print("Select division:")
@@ -427,14 +486,17 @@ if __name__ == '__main__':
     ELO_CSV      = cfg['elo_csv']
     PAIR_ELO_CSV = cfg['pair_csv']
     BET_HISTORY_CSV = cfg['bet_csv']
-    print(f"\nLoaded: {cfg['name']}\n")
+    SCALE        = cfg['scale']
+    print(f"\nLoaded: {cfg['name']} (scale={SCALE})\n")
 
     while True:
-        decision = input("Options: test accuracy(1), accuracy by tournament(2), bet suggestions(3), match predictions(4), Top 10(5), player rating(6), save bet(7), view bet history(8), settle bet(9)\n")
-        if decision == '1':
-            compute_accuracy(MATCH_CSV, 0.1)
+        decision = input("Options: scale sweep(0), test accuracy(1), accuracy by tournament(2), bet suggestions(3), match predictions(4), Top 10(5), player rating(6), save bet(7), view bet history(8), settle bet(9)\n")
+        if decision == '0':
+            scale_sweep(MATCH_CSV)
+        elif decision == '1':
+            compute_accuracy(MATCH_CSV, SCALE)
         elif decision == '2':
-            tournament_accuracy(MATCH_CSV, .15)
+            tournament_accuracy(MATCH_CSV, SCALE)
         elif decision == '3':
             train_elo(MATCH_CSV)
             players = []
@@ -446,7 +508,7 @@ if __name__ == '__main__':
             results = predict_match(
                 [players[0], players[1]],
                 [players[2], players[3]],
-                bankroll, odds1, odds2, scale=.15, return_kelly=True
+                bankroll, odds1, odds2, scale=SCALE, return_kelly=True
             )
             print(results)
         elif decision == '4':
@@ -454,7 +516,7 @@ if __name__ == '__main__':
             for i in range(4):
                 players.append(resolve_player(input(f"player {i+1}: ")))
             train_elo(MATCH_CSV)
-            prob = predict([players[0], players[1]], [players[2], players[3]])
+            prob = predict([players[0], players[1]], [players[2], players[3]], SCALE)
             print(f"\nTeam 1 Win Probability: {prob:.2%}")
             print(f"Team 2 Win Probability: {(1-prob):.2%}\n")
             print(prob)
@@ -490,7 +552,7 @@ if __name__ == '__main__':
             results = predict_match(
                 [players[0], players[1]],
                 [players[2], players[3]],
-                bankroll, odds1, odds2, scale=.15, return_kelly=True
+                bankroll, odds1, odds2, scale=SCALE, return_kelly=True
             )
             print(results)
             bet_team_input = input('Which team did you bet on? (1/2/none): ').strip()

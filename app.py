@@ -14,9 +14,9 @@ from ppaPrediction import (
 
 # ====== DIVISION CONFIG ======
 DIVISIONS = {
-    'mens':   {'match_csv': 'mens_matches.csv',   'elo_csv': 'mens_elo.csv',   'pair_csv': 'mens_pair_elo.csv',   'bet_csv': 'mens_bets.csv'},
-    'womens': {'match_csv': 'womens_matches.csv', 'elo_csv': 'womens_elo.csv', 'pair_csv': 'womens_pair_elo.csv', 'bet_csv': 'womens_bets.csv'},
-    'mixed':  {'match_csv': 'mixed_matches.csv',  'elo_csv': 'mixed_elo.csv',  'pair_csv': 'mixed_pair_elo.csv',  'bet_csv': 'mixed_bets.csv'},
+    'mens':   {'match_csv': 'mens_matches.csv',   'elo_csv': 'mens_elo.csv',   'pair_csv': 'mens_pair_elo.csv',   'bet_csv': 'mens_bets.csv',   'scale': 0.075},
+    'womens': {'match_csv': 'womens_matches.csv', 'elo_csv': 'womens_elo.csv', 'pair_csv': 'womens_pair_elo.csv', 'bet_csv': 'womens_bets.csv', 'scale': 0.075},
+    'mixed':  {'match_csv': 'mixed_matches.csv',  'elo_csv': 'mixed_elo.csv',  'pair_csv': 'mixed_pair_elo.csv',  'bet_csv': 'mixed_bets.csv',  'scale': 0.15},
 }
 
 def get_csvs(division):
@@ -890,6 +890,18 @@ async function runPredict() {
         <div class="prob-bar"><div class="prob-fill" style="width:${p2}%"></div></div>
       </div>
     </div>
+    <div style="display:flex;gap:12px;margin-top:16px;">
+      <div style="flex:1;background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:14px;text-align:center;">
+        <div style="font-family:DM Mono,monospace;font-size:0.62rem;color:var(--muted);margin-bottom:6px;">FAIR ODDS — ${data.team1[0]} / ${data.team1[1]}</div>
+        <div style="font-size:1.4rem;font-family:DM Mono,monospace;color:var(--accent);">${(1 / data.prob_team1).toFixed(3)}</div>
+        <div style="font-size:0.65rem;color:var(--muted);margin-top:4px;">Only bet if bookmaker offers more</div>
+      </div>
+      <div style="flex:1;background:var(--card-bg);border:1px solid var(--border);border-radius:8px;padding:14px;text-align:center;">
+        <div style="font-family:DM Mono,monospace;font-size:0.62rem;color:var(--muted);margin-bottom:6px;">FAIR ODDS — ${data.team2[0]} / ${data.team2[1]}</div>
+        <div style="font-size:1.4rem;font-family:DM Mono,monospace;color:var(--accent);">${(1 / data.prob_team2).toFixed(3)}</div>
+        <div style="font-size:0.65rem;color:var(--muted);margin-top:4px;">Only bet if bookmaker offers more</div>
+      </div>
+    </div>
     ${data.corrected ? `<div style="font-family:DM Mono,monospace;font-size:0.68rem;color:var(--muted);margin-top:12px;">⚡ ${data.corrected.join(' · ')}</div>` : ''}
   `;
 }
@@ -1177,6 +1189,7 @@ def _train(division='mens'):
 def api_predict():
     d = request.json
     div = d.get('division', 'mens')
+    cfg = get_csvs(div)
     try:
         _train(div)
     except FileNotFoundError as e:
@@ -1188,7 +1201,7 @@ def api_predict():
         if r != p:
             corrected.append(f"'{p}' → '{r}'")
         players.append(r)
-    prob = elo_module.predict([players[0], players[1]], [players[2], players[3]])
+    prob = elo_module.predict([players[0], players[1]], [players[2], players[3]], cfg['scale'])
     return jsonify({
         'prob_team1': prob,
         'prob_team2': 1 - prob,
@@ -1201,6 +1214,7 @@ def api_predict():
 def api_bet():
     d = request.json
     div = d.get('division', 'mens')
+    cfg = get_csvs(div)
     try:
         _train(div)
     except FileNotFoundError as e:
@@ -1215,7 +1229,7 @@ def api_bet():
     result = elo_module.predict_match(
         [players[0], players[1]], [players[2], players[3]],
         bankroll=d['bankroll'], odds_team1=d['odds1'], odds_team2=d['odds2'],
-        scale=0.15, return_kelly=True
+        scale=cfg['scale'], return_kelly=True
     )
     return jsonify({
         'prob_team1': result['probability_team1'],
@@ -1396,13 +1410,13 @@ def api_accuracy():
         for _, row in t_matches.iterrows():
             team1 = [row['team1_player1'], row['team1_player2']]
             team2 = [row['team2_player1'], row['team2_player2']]
-            prob = elo_module.predict(team1, team2, 0.15)
+            prob = elo_module.predict(team1, team2, cfg['scale'])
             actual = 1 if row['team1_sets'] > row['team2_sets'] else 0
             if (1 if prob > 0.5 else 0) == actual:
                 correct += 1
             log_loss += -(_math.log(prob + 1e-9) if actual else _math.log(1 - prob + 1e-9))
             total += 1
-            elo_module.update_elo(team1, team2, row['team1_sets'], row['team2_sets'], scale=0.15)
+            elo_module.update_elo(team1, team2, row['team1_sets'], row['team2_sets'], scale=cfg['scale'])
         acc = correct / total
         ll = log_loss / total
         entry = {'tournament': t, 'accuracy': acc, 'log_loss': ll, 'warmup': is_warmup}
